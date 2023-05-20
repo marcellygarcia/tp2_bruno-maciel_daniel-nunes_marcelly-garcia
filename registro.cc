@@ -1,13 +1,8 @@
 #include <iostream>
 #include <vector>
-#include "util.cc"
+#include "registro.h"
+#include "util.h"
 using namespace std;
-
-typedef struct registro{
-    int id,citacoes,ano;
-    string titulo,autores,snippet,atualizacao;
-} Registro;
-
 
 void imprime_registro(Registro rg){
     cout<<"ID: "<<rg.id<<endl;
@@ -20,7 +15,7 @@ void imprime_registro(Registro rg){
     cout<<"-------------------------------------------------"<<endl;    
 }
 
-Registro le_registro(string linha_csv){
+Registro extrai_registro(string linha_csv){
     vector<string> vline = split(linha_csv,';');
     Registro nregistro;
     nregistro.id = int_to_str(vline[0]);

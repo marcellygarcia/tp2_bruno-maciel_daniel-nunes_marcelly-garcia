@@ -1,6 +1,7 @@
 #include <vector>
 #include <iostream>
 #include <sstream>
+#include "util.h"
 using namespace std;
 
 vector<string> split(string str, char spliter){
@@ -15,9 +16,9 @@ vector<string> split(string str, char spliter){
         }
     }
     
-    for(int i = 0; i < splited_str.size(); i++){
+    /*for(int i = 0; i < splited_str.size(); i++){
         cout<<splited_str[i]<<endl;
-    }
+    }*/
     
     return splited_str;
 

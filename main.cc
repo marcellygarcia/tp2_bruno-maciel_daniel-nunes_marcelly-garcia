@@ -2,7 +2,7 @@
 #include <fstream>
 #include <vector>
 #include <sstream>
-#include "arquivohash.cc"
+#include "arquivohash.h"
 using namespace std;
 
 int main(const int argc, const char* argv[]){
@@ -21,7 +21,7 @@ int main(const int argc, const char* argv[]){
     while(getline(arqInicial,line)){
         getline(arqInicial,line);
         //cout<<line<<endl;
-        nregistro = le_registro(line);
+        nregistro = extrai_registro(line);
         insere_no_arquivo(nregistro);
         //imprime_registro(nregistro)
 

@@ -1,18 +1,9 @@
 #include <iostream>
 #include <fstream>
 #include <iostream>
-#include "bloco.cc"
+#include "arvoreb.h"
 using namespace std;
 
-
-const int t = 3; // Grau mínimo da árvore B
-// Estrutura do nó da árvore B
-typedef struct no {
-    Bloco *blocos;     
-    struct no **filhos;   
-    int qtBlocos;        
-    bool eh_folha;       
-}No;
 
 // Função auxiliar para criar um novo nó da árvore B
 No* novoNo(bool eh_folha) {
