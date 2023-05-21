@@ -1,0 +1,3531 @@
+26416
+Regs: 200
+Arquivo Criado com sucesso
+0
+extracted 
+seekd
+searched 
+N. bucket: 1
+ID: 1
+Titulo: Poster: 3D sketching and flexible input for surface design: A case study.
+Ano: 2013
+Autores: Anamary Leal|Doug A. Bowman
+Citacoes: 0
+Atualização: 2016-07-28 09:36:29
+Snippet: Poster: 3D sketching and flexible input for surface design: A case study. A Leal, DA Bowman -  Interfaces (3DUI), 2013 IEEE Symposium , 2013 - ieeexplore.ieee.org. ABSTRACT Designing three-dimensional (3D) surfaces is difficult in both the physical world  and in 3D modeling software, requiring background knowledge and skill. The goal of this  work is to make 3D surface design easier and more accessible through natural and  .."
+-------------------------------------------------
+dbBloco 1
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+1
+extracted 
+seekd
+searched 
+N. bucket: 2
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 2
+Titulo: Poster: Portable integral photography input/ output system using tablet PC and fly's eye lenses.
+Ano: 2013
+Autores: Yusuke Kawano|Kazuhisa Yanaka
+Citacoes: 0
+Atualização: 2016-07-28 09:36:49
+Snippet: Poster: Portable integral photography input/output system using tablet PC and fly's eye lenses. Y Kawano, K Yanaka - 3D User Interfaces (3DUI), 2013 IEEE  , 2013 - ieeexplore.ieee.org. ABSTRACT We present a new system that can input and output integral photography  images. The system consists of a commerciallyavailable tablet PC to which fly's eye lenses,  one of which is for input and the other for output IP images, are attached. Light rays  .."
+-------------------------------------------------
+dbBloco 2
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+2
+extracted 
+seekd
+searched 
+N. bucket: 3
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 3
+Titulo: Poster: Real-time markerless kinect based finger tracking and hand gesture recognition for HCI.
+Ano: 2013
+Autores: Arun Kulshreshth|Christopher Zorn|Joseph J. LaViola Jr.
+Citacoes: 22
+Atualização: 2016-10-03 21:16:22
+Snippet: Poster: Real-time markerless kinect based finger tracking and hand gesture recognition for HCI. A Kulshreshth, C Zorn, JJ LaViola - 3D User Interfaces (3DUI),  , 2013 - ieeexplore.ieee.org. ABSTRACT Hand gestures are intuitive ways to interact with a variety of user interfaces. We  developed a real-time finger tracking technique using the Microsoft Kinect as an input device  and compared its results with an existing technique that uses the K-curvature algorithm.  .."
+-------------------------------------------------
+dbBloco 3
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+3
+extracted 
+seekd
+searched 
+N. bucket: 4
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 4
+Titulo: Poster: Real time hand pose recognition with depth sensors for mixed reality interfaces.
+Ano: 2013
+Autores: Byungkyu Kang|Mathieu Rodrigue|Tobias H&ouml;llerer|Hwasup Lim
+Citacoes: 1
+Atualização: 2016-10-03 21:38:17
+Snippet: Poster: Real time hand pose recognition with depth sensors for mixed reality interfaces. B Kang, M Rodrigue, T HÃ¶llerer - 3D User Interfaces (3DUI) , 2013 - ieeexplore.ieee.org. ABSTRACT We present a method for predicting articulated hand poses in realtime with a  single depth camera, such as the Kinect or Xtion Pro, for the purpose of interaction in a  Mixed Reality environment and for studying the effects of realistic and non-realistic  .."
+-------------------------------------------------
+dbBloco 4
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+4
+extracted 
+seekd
+searched 
+N. bucket: 5
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 5
+Titulo: Design and implementation of an immersive virtual reality system based on a smartphone platform.
+Ano: 2013
+Autores: Anthony Steed|Simon Julier
+Citacoes: 12
+Atualização: 2016-10-03 21:10:56
+Snippet: Design and implementation of an immersive virtual reality system based on a smartphone platform. A Steed, S Julier - 3D User Interfaces (3DUI), 2013 IEEE  , 2013 - ieeexplore.ieee.org. ABSTRACT With the increasing power of mobile CPUs and GPUs, it is becoming tractable to  integrate all the components of an interactive, immersive virtual reality system onto a small  mobile device. We present a demonstration of a head-mounted display system integrated  .."
+-------------------------------------------------
+dbBloco 5
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+5
+extracted 
+seekd
+searched 
+N. bucket: 6
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 6
+Titulo: Poster: Lifted road map view on windshield display.
+Ano: 2013
+Autores: Takaya Kawamata|Itaru Kitahara|Yoshinari Kameda|Yuichi Ohta
+Citacoes: 1
+Atualização: 2016-10-03 21:34:50
+Snippet: Poster: Lifted road map view on windshield display. T Kawamata, I Kitahara, Y Kameda - 3D User Interfaces ( , 2013 - ieeexplore.ieee.org. ABSTRACT A new road map visualization method at window shield display for vehicle driver  is proposed. Road structure ahead of a vehicle is shown by CG line segments at the upper  area of driver view in augmented reality fashion. Road line segments are virtually placed  .."
+-------------------------------------------------
+dbBloco 6
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+6
+extracted 
+seekd
+searched 
+N. bucket: 7
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 7
+Titulo: Poster: Comparing usability of a single versus dual interaction metaphor in a multitask healthcare simulation.
+Ano: 2013
+Autores: Lauren Cairco Dukes|Jeffrey W. Bertrand|Manan Gupta|Rowan Armstrong|Tracy Fasolino|Sabarish V. Babu|Larry F. Hodges
+Citacoes: 1
+Atualização: 2016-10-03 21:42:27
+Snippet: Poster: Comparing usability of a single versus dual interaction metaphor in a multitask healthcare simulation. LC Dukes, J Bertrand, M Gupta - 3D User Interfaces ( , 2013 - ieeexplore.ieee.org. ABSTRACT We present the results of a user study performed within a multitask healthcare  simulation, where nurses are required to care for virtual patients within a 3D virtual  environment while recording data in a 2D graphical user interface (GUI) based electronic  .."
+-------------------------------------------------
+dbBloco 7
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+7
+extracted 
+seekd
+searched 
+N. bucket: 8
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 8
+Titulo: Poster: Creating a user-specific perspective view for mobile mixed reality systems on smartphones.
+Ano: 2013
+Autores: Yuki Matsuda|Fumihisa Shibata|Asako Kimura|Hideyuki Tamura
+Citacoes: 1
+Atualização: 2016-10-03 21:33:00
+Snippet: Poster: Creating a user-specific perspective view for mobile mixed reality systems on smartphones. Y Matsuda, F Shibata, A Kimura - 3D User Interfaces ( , 2013 - ieeexplore.ieee.org. ABSTRACT We propose a method for creating a user-specific perspective view for mobile  mixed reality (MR) systems that provides threedimensional perception based on pseudo  motion parallax. In general, most common mainstream interface for a hand-held AR/MR  .."
+-------------------------------------------------
+dbBloco 8
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+8
+extracted 
+seekd
+searched 
+N. bucket: 9
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 9
+Titulo: Poster: Markerless fingertip-based 3D interaction for handheld augmented reality in a small workspace.
+Ano: 2013
+Autores: Huidong Bai|Lei Gao|Mark Billinghurst
+Citacoes: 5
+Atualização: 2016-10-03 20:58:04
+Snippet: Poster: Markerless fingertip-based 3D interaction for handheld augmented reality in a small workspace. H Bai, L Gao, M Billinghurst - 3D User Interfaces (3DUI), 2013  , 2013 - ieeexplore.ieee.org. ABSTRACT Compared with traditional screen-touch input, natural gesturebased interaction  approaches could offer a more intuitive user experience in handheld Augmented Reality  (AR) applications. However, most gesture interaction techniques for handheld AR only  .."
+-------------------------------------------------
+dbBloco 9
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+9
+extracted 
+seekd
+searched 
+N. bucket: 10
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 10
+Titulo: Poster: A wearable augmented reality system with haptic feedback and its performance in virtual assembly tasks.
+Ano: 2013
+Autores: Kazuya Murakami|Ryo Kiyama|Takuji Narumi|Tomohiro Tanikawa|Michitaka Hirose
+Citacoes: 10
+Atualização: 2016-10-03 21:05:42
+Snippet: Poster: A wearable augmented reality system with haptic feedback and its performance in virtual assembly tasks. K Murakami, R Kiyama, T Narumi - 3D User Interfaces ( , 2013 - ieeexplore.ieee.org. ABSTRACT Haptic feedback is important to improve the operability of virtual objects.  However, AR systems with haptic feedback are still not many. Moreover, users cannot  perform tasks that need large workspaces in those systems because of physical  .."
+-------------------------------------------------
+dbBloco 10
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+10
+extracted 
+seekd
+searched 
+N. bucket: 11
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 11
+Titulo: Tactile flow on seat pan modulates perceived forward velocity.
+Ano: 2013
+Autores: Tomohiro Amemiya|Koichi Hirota|Yasushi Ikei
+Citacoes: 2
+Atualização: 2016-10-03 21:34:39
+Snippet: Tactile flow on seat pan modulates perceived forward velocity. T Amemiya, K Hirota, Y Ikei - 3D User Interfaces (3DUI), 2013  , 2013 - ieeexplore.ieee.org. ABSTRACT We conducted a user study to clarify whether a tactile flow created by a matrix of  vibrators in a seat pan simultaneously presented with an optical flow in peripheral vision  enhances the perceived forward velocity of self-motion. A brief tactile motion stimulus  .."
+-------------------------------------------------
+dbBloco 11
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+11
+extracted 
+seekd
+searched 
+N. bucket: 12
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 12
+Titulo: Poster: Observing change in crowded data sets in 3D space - Visualizing gene expression in human tissues.
+Ano: 2013
+Autores: Marcin Rogowski|Carlo Vittorio Cannistraci|Gregorio Alanis-Lobato|Philip P. Weber|Timothy Ravasi|J&uuml;rgen P. Schulze|Daniel Acevedo Feliz
+Citacoes: 0
+Atualização: 2012-12-31 23:00:00";NULL
+Snippet: ,�g�U          seat pan modulates perceived forward velocity. T Amemiya, K Hirota, Y Ikei - 3D User Interfaces (3DUI), 2013  , 2013 - ieeexplore.ieee.org. ABSTRACT We conducted a user study to clarify whether a tactile flow created by a matrix of  vibrators in a seat pan simultaneously presented with an optical flow in peripheral vision  enhances the perceived forward velocity of self-motion. A brief tactile motion stimulus  .."
+-------------------------------------------------
+dbBloco 12
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+12
+extracted 
+seekd
+searched 
+N. bucket: 13
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 12
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 13
+Titulo: Poster: Volume Cracker: A bimanual 3D interaction technique for analysis of raw volumetric data.
+Ano: 2013
+Autores: Bireswar Laha|Doug A. Bowman
+Citacoes: 1
+Atualização: 2016-10-03 21:35:55
+Snippet: Poster: Volume Cracker: A bimanual 3D interaction technique for analysis of raw volumetric data. B Laha, DA Bowman - 3D User Interfaces (3DUI), 2013 IEEE  , 2013 - ieeexplore.ieee.org. ABSTRACT Volume data analysis often involves finding structures inside the volume.  Segmentation is the standard method, but it is quite timeconsuming. Alternate approaches  remove context, assume prior definition of ROI or segments, or distort part of the volume.  .."
+-------------------------------------------------
+dbBloco 13
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+13
+extracted 
+seekd
+searched 
+N. bucket: 14
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 12
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 13
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 14
+Titulo: DIY World Builder: An immersive level-editing system.
+Ano: 2013
+Autores: Jia Wang|Owen Leach|Robert W. Lindeman
+Citacoes: 4
+Atualização: 2016-10-03 20:54:41
+Snippet: DIY World Builder: An immersive level-editing system. J Wang, O Leach, RW Lindeman - 3D User Interfaces (3DUI),  , 2013 - ieeexplore.ieee.org. ABSTRACT This paper presents an immersive system for building virtual worlds from within  the worlds themselves. The system incorporates solutions for editing and texturing terrain,  adding foliage, water, structures, and text, adding and controlling lights, including the time  .."
+-------------------------------------------------
+dbBloco 14
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+14
+extracted 
+seekd
+searched 
+N. bucket: 15
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 12
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 13
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 14
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 4
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 15
+Titulo: Poster: Paving the way into virtual reality - A transition in five stages.
+Ano: 2013
+Autores: Daniel Sproll|Jacob Freiberg|Timofey Grechkin|Bernhard E. Riecke
+Citacoes: 1
+Atualização: 2016-10-03 21:33:11
+Snippet: Poster: Paving the way into virtual reality-a transition in five stages. D Sproll, J Freiberg, T Grechkin - 3D User Interfaces ( , 2013 - ieeexplore.ieee.org. ABSTRACT Many of today's virtual reality (VR) setups are very much focused on technical  aspects rather then the benefits of a coherent user experience. This work explores the idea  of enhancing the VR experience with a transition phase. On a physical level, this transition  .."
+-------------------------------------------------
+dbBloco 15
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+15
+extracted 
+seekd
+searched 
+N. bucket: 16
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 12
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 13
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 14
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 4
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 15
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 16
+Titulo: Poster: Investigation on the peripheral visual field for information display with real and virtual wide field-of-view see-through HMDs.
+Ano: 2013
+Autores: Naohiro Kishishita|Jason Orlosky|Tomohiro Mashita|Kiyoshi Kiyokawa|Haruo Takemura
+Citacoes: 3
+Atualização: 2016-10-03 21:43:55
+Snippet: Poster: Investigation on the peripheral visual field for information display with real and virtual wide field-of-view see-through HMDs. N Kishishita, J Orlosky, T Mashita - 3D User Interfaces ( , 2013 - ieeexplore.ieee.org. ABSTRACT Wide-view HMDs allow users to use their peripheral vision in a wearable  augmented reality (AR) system. In this study, we evaluate the effectiveness of wide FOV see- through HMDs. Experimental results show that distribution of annotations to peripheral  .."
+-------------------------------------------------
+dbBloco 16
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+16
+extracted 
+seekd
+searched 
+N. bucket: 17
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 12
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 13
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 14
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 4
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 15
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 16
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 3
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 17
+Titulo: Expressing animated performances through puppeteering.
+Ano: 2013
+Autores: Takaaki Shiratori|Moshe Mahler|Warren Trezevant|Jessica K. Hodgins
+Citacoes: 8
+Atualização: 2016-10-03 21:05:20
+Snippet: Expressing animated performances through puppeteering. T Shiratori, M Mahler, W Trezevant - 3D User Interfaces ( , 2013 - ieeexplore.ieee.org. ABSTRACT An essential form of communication between the director and the animators  early in the animation pipeline is rough cut at the motion (a blocked-in animation). This  version of the character's performance allows the director and animators to discuss how  .."
+-------------------------------------------------
+dbBloco 17
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+17
+extracted 
+seekd
+searched 
+N. bucket: 18
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 12
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 13
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 14
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 4
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 15
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 16
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 3
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 17
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 8
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 18
+Titulo: Effects and optimization of visual-proprioceptive discrepancy reduction for virtual grasping.
+Ano: 2013
+Autores: Mores Prachyabrued|Christoph W. Borst
+Citacoes: 2
+Atualização: 2016-10-03 21:45:35
+Snippet: Effects and optimization of visual-proprioceptive discrepancy reduction for virtual grasping. M Prachyabrued, CW Borst - 3D User Interfaces (3DUI), 2013  , 2013 - ieeexplore.ieee.org. ABSTRACT A virtual hand can intentionally deviate from the real hand configuration to  improve interaction and experience. Subsequent discrepancy reduction (convergence) is  important to avoid undesirable side effects such as grasping difficulty. Prior work did not  .."
+-------------------------------------------------
+dbBloco 18
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+18
+extracted 
+seekd
+searched 
+N. bucket: 19
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 12
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 13
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 14
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 4
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 15
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 16
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 3
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 17
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 8
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 18
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 19
+Titulo: Natural user interface hardware.
+Ano: 2013
+Autores: Patrick Baudisch
+Citacoes: 1
+Atualização: 2016-10-03 21:36:19
+Snippet: Natural user interface hardware. P Baudisch - 3D User Interfaces (3DUI), 2013 IEEE  , 2013 - ieeexplore.ieee.org. ABSTRACT One-year olds can use touch screensâyoutube has proof of that. But whyâ what makes certain interactive devices so ânaturalâ that any child can just pick them up and  use them? The key seems to be user interface hardware that only allows for the one thing  .."
+-------------------------------------------------
+dbBloco 19
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+19
+extracted 
+seekd
+searched 
+N. bucket: 20
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 12
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 13
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 14
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 4
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 15
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 16
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 3
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 17
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 8
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 18
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 19
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 20
+Titulo: Poster: MagicLensVS - Towards a flexible framework for quick setup of visual feedback in a virtual studio.
+Ano: 2013
+Autores: Bj&ouml;rn W&ouml;ldecke|Dionysios Marinos|Christian Geiger
+Citacoes: 1
+Atualização: 2016-10-03 21:36:28
+Snippet: Poster: MagicLensVS-Towards a flexible framework for quick setup of visual feedback in a virtual studio. B WÃ¶ldecke, D Marinos, C Geiger - 3D User Interfaces (3DUI),  , 2013 - ieeexplore.ieee.org. ABSTRACT In this paper, we present the current work in progress of the MagicLensVS,  which is a flexible framework for visual feedback in a virtual studio environment. Our  ambition is to facilitate the creation of richer content in TV productions by improving the  .."
+-------------------------------------------------
+dbBloco 20
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+20
+extracted 
+seekd
+searched 
+N. bucket: 21
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 12
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 13
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 14
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 4
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 15
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 16
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 3
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 17
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 8
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 18
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 19
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 20
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 21
+Titulo: Poster: Evolution and usability of ubiquitous immersive 3D interfaces.
+Ano: 2013
+Autores: Aryabrata Basu|Kyle Johnsen|Kenneth Bogert
+Citacoes: 1
+Atualização: 2016-10-03 21:42:38
+Snippet: Poster: Evolution and usability of ubiquitous immersive 3D interfaces. A Basu, K Johnsen, K Bogert - 3D User Interfaces (3DUI), 2013  , 2013 - ieeexplore.ieee.org. ABSTRACT Immersive virtual reality applications have historically been associated with  cumbersome technical components that require substantial infrastructure and support.  Recent developments have pointed towards a far more accessible and exponentially less  .."
+-------------------------------------------------
+dbBloco 21
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+21
+extracted 
+seekd
+searched 
+N. bucket: 22
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 12
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 13
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 14
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 4
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 15
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 16
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 3
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 17
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 8
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 18
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 19
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 20
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 21
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 22
+Titulo: Poster: Using the whole body for multi-channel gestural interface.
+Ano: 2013
+Autores: William Steptoe|Lu Zhao
+Citacoes: 1
+Atualização: 2016-10-03 21:42:16
+Snippet: Poster: Using the whole body for multi-channel gestural interface. W Steptoe, L Zhao - 3D User Interfaces (3DUI), 2013 IEEE  , 2013 - ieeexplore.ieee.org. ABSTRACT With the proliferation of touch-screen devices and sensors that are able to track  full-body movement in real-time, consumers are experiencing a shift in how they may  interface with digital content. Such interfaces sense and interpret human motion, and so  .."
+-------------------------------------------------
+dbBloco 22
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+22
+extracted 
+seekd
+searched 
+N. bucket: 23
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 12
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 13
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 14
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 4
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 15
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 16
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 3
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 17
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 8
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 18
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 19
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 20
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 21
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 22
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 23
+Titulo: Effects of visual conflicts on 3D selection task performance in stereoscopic display environments.
+Ano: 2013
+Autores: Gerd Bruder|Frank Steinicke|Wolfgang St&uuml;rzlinger
+Citacoes: 26
+Atualização: 2016-10-03 21:17:28
+Snippet: Effects of visual conflicts on 3D selection task performance in stereoscopic display environments. G Bruder, F Steinicke - 3D User Interfaces (3DUI), , 2013 - ieeexplore.ieee.org. ABSTRACT Mid-air direct-touch interaction in stereoscopic display environments poses  challenges to the design of 3D user interfaces. Not only is passive haptic feedback usually  absent when selecting a virtual object displayed with positive or negative parallax relative  .."
+-------------------------------------------------
+dbBloco 23
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+23
+extracted 
+seekd
+searched 
+N. bucket: 24
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 12
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 13
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 14
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 4
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 15
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 16
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 3
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 17
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 8
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 18
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 19
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 20
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 21
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 22
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 23
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 26
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 24
+Titulo: Poster: 3-Point++: A new technique for 3D manipulation of virtual objects.
+Ano: 2013
+Autores: Thi Thuong Huyen Nguyen|Thierry Duval
+Citacoes: 4
+Atualização: 2016-10-03 20:54:09
+Snippet: Poster: 3-Point++: A new technique for 3D manipulation of virtual objects. TTH Nguyen, T Duval - 3D User Interfaces (3DUI), 2013 IEEE  , 2013 - ieeexplore.ieee.org. ABSTRACT Manipulation in immersive Virtual Environments (VEs) is often difficult and  inaccurate because humans have difficulty in performing precise positioning tasks or in  keeping the hand motionless in a particular position without any help of external devices  .."
+-------------------------------------------------
+dbBloco 24
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+24
+extracted 
+seekd
+searched 
+N. bucket: 25
+Regx
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 12
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 13
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 14
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 4
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 15
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 16
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 3
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 17
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 8
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 18
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 19
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 20
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 21
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 22
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 23
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 26
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Regx
+ID: 24
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 4
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 25
+Titulo: ARWand for an augmuented world builder.
+Ano: 2013
+Autores: Taejin Ha|Woontack Woo
+Citacoes: 4
+Atualização: 2016-10-03 20:55:12
+Snippet: ARWand for an augmuented world builder. T Ha, W Woo - 3D User Interfaces (3DUI), 2013 IEEE  , 2013 - ieeexplore.ieee.org. ABSTRACT ARWand is a smartphone-based 3D user interface for manipulating 3D virtual  objects in a wearable augmented reality (AR) environment without the use of a cumbersome  external tracking system. In this paper, we apply ARWand to an augmented world builder  .."
+-------------------------------------------------
+dbBloco 25
+ID: 0
+Titulo: 
+Ano: 0
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+Registro Inserido 
+Imp 200
+T-BUCKET: 0
+Qtd. Regs.: 0
+T-BUCKET: 1
+Qtd. Regs.: 0
+T-BUCKET: 2
+Qtd. Regs.: 0
+T-BUCKET: 3
+Qtd. Regs.: 0
+T-BUCKET: 4
+Qtd. Regs.: 0
+T-BUCKET: 5
+Qtd. Regs.: 0
+T-BUCKET: 6
+Qtd. Regs.: 0
+T-BUCKET: 7
+Qtd. Regs.: 0
+T-BUCKET: 8
+Qtd. Regs.: 0
+T-BUCKET: 9
+Qtd. Regs.: 0
+T-BUCKET: 10
+Qtd. Regs.: 0
+T-BUCKET: 11
+Qtd. Regs.: 0
+T-BUCKET: 12
+Qtd. Regs.: 0
+T-BUCKET: 13
+Qtd. Regs.: 0
+T-BUCKET: 14
+Qtd. Regs.: 0
+T-BUCKET: 15
+Qtd. Regs.: 0
+T-BUCKET: 16
+Qtd. Regs.: 0
+T-BUCKET: 17
+Qtd. Regs.: 0
+T-BUCKET: 18
+Qtd. Regs.: 0
+T-BUCKET: 19
+Qtd. Regs.: 0
+T-BUCKET: 20
+Qtd. Regs.: 0
+T-BUCKET: 21
+Qtd. Regs.: 0
+T-BUCKET: 22
+Qtd. Regs.: 0
+T-BUCKET: 23
+Qtd. Regs.: 0
+T-BUCKET: 24
+Qtd. Regs.: 0
+T-BUCKET: 25
+Qtd. Regs.: 25
+ID: 1
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 2
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 3
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 22
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 4
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 5
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 12
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 6
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 7
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 8
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 9
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 5
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 10
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 10
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 11
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 12
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 0
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 13
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 14
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 4
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 15
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 16
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 3
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 17
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 8
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 18
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 2
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 19
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 20
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 21
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 22
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 1
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 23
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 26
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 24
+Titulo: 
+Ano: 2013
+Autores: 
+Citacoes: 4
+Atualização: 
+Snippet: 
+-------------------------------------------------
+ID: 25
+Titulo: mN`�U  ���s�=gmuented world builder.
+Ano: 2013
+Autores: ��g�U  ���s�=ck Woo
+Citacoes: 4
+Atualização: b�g�U  ���s�=:12
+Snippet: ď�g�U  ���s�=gmuented world builder. T Ha, W Woo - 3D User Interfaces (3DUI), 2013 IEEE  , 2013 - ieeexplore.ieee.org. ABSTRACT ARWand is a smartphone-based 3D user interface for manipulating 3D virtual  objects in a wearable augmented reality (AR) environment without the use of a cumbersome  external tracking system. In this paper, we apply ARWand to an augmented world builder  .."
+-------------------------------------------------

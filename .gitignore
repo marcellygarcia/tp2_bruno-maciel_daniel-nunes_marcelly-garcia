@@ -2,3 +2,6 @@ HashFile
 *.csv
 .vscode
 a.out
+/*/*.o
+*.o
+*.bin

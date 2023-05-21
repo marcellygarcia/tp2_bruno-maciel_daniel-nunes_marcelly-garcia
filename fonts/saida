@@ -1,0 +1,6157 @@
+114408
+Regs: 2000
+Arquivo Criado com sucesso
+N. bucket: 1
+Registro Inserido 
+N. bucket: 2
+Registro Inserido 
+N. bucket: 3
+Registro Inserido 
+N. bucket: 4
+Registro Inserido 
+N. bucket: 5
+Registro Inserido 
+N. bucket: 6
+Registro Inserido 
+N. bucket: 7
+Registro Inserido 
+N. bucket: 8
+Registro Inserido 
+N. bucket: 9
+Registro Inserido 
+N. bucket: 10
+Registro Inserido 
+N. bucket: 11
+Registro Inserido 
+N. bucket: 12
+Registro Inserido 
+N. bucket: 13
+Registro Inserido 
+N. bucket: 14
+Registro Inserido 
+N. bucket: 15
+Registro Inserido 
+114408
+Regs: 2000
+Arquivo Criado com sucesso
+Lendo arquivo de dados 2000
+T-BUCKET: 0
+Qtd. Regs.: 0
+0
+T-BUCKET: 1
+Qtd. Regs.: 1
+0
+ID: 1
+Titulo: Poster: 3D sketching and flexible input for surface design: A case study.
+Ano: 2013
+Autores: Anamary Leal|Doug A. Bowman
+Citacoes: 0
+Atualização: 2016-07-28 09:36:29
+Snippet: Poster: 3D sketching and flexible input for surface design: A case study. A Leal, DA Bowman -  Interfaces (3DUI), 2013 IEEE Symposium , 2013 - ieeexplore.ieee.org. ABSTRACT Designing three-dimensional (3D) surfaces is difficult in both the physical world  and in 3D modeling software, requiring background knowledge and skill. The goal of this  work is to make 3D surface design easier and more accessible through natural and  .."
+-------------------------------------------------
+T-BUCKET: 2
+Qtd. Regs.: 1
+0
+ID: 2
+Titulo: Poster: Portable integral photography input/ output system using tablet PC and fly's eye lenses.
+Ano: 2013
+Autores: Yusuke Kawano|Kazuhisa Yanaka
+Citacoes: 0
+Atualização: 2016-07-28 09:36:49
+Snippet: Poster: Portable integral photography input/output system using tablet PC and fly's eye lenses. Y Kawano, K Yanaka - 3D User Interfaces (3DUI), 2013 IEEE  , 2013 - ieeexplore.ieee.org. ABSTRACT We present a new system that can input and output integral photography  images. The system consists of a commerciallyavailable tablet PC to which fly's eye lenses,  one of which is for input and the other for output IP images, are attached. Light rays  .."
+-------------------------------------------------
+T-BUCKET: 3
+Qtd. Regs.: 1
+0
+ID: 3
+Titulo: Poster: Real-time markerless kinect based finger tracking and hand gesture recognition for HCI.
+Ano: 2013
+Autores: Arun Kulshreshth|Christopher Zorn|Joseph J. LaViola Jr.
+Citacoes: 22
+Atualização: 2016-10-03 21:16:22
+Snippet: Poster: Real-time markerless kinect based finger tracking and hand gesture recognition for HCI. A Kulshreshth, C Zorn, JJ LaViola - 3D User Interfaces (3DUI),  , 2013 - ieeexplore.ieee.org. ABSTRACT Hand gestures are intuitive ways to interact with a variety of user interfaces. We  developed a real-time finger tracking technique using the Microsoft Kinect as an input device  and compared its results with an existing technique that uses the K-curvature algorithm.  .."
+-------------------------------------------------
+T-BUCKET: 4
+Qtd. Regs.: 1
+0
+ID: 4
+Titulo: Poster: Real time hand pose recognition with depth sensors for mixed reality interfaces.
+Ano: 2013
+Autores: Byungkyu Kang|Mathieu Rodrigue|Tobias H&ouml;llerer|Hwasup Lim
+Citacoes: 1
+Atualização: 2016-10-03 21:38:17
+Snippet: Poster: Real time hand pose recognition with depth sensors for mixed reality interfaces. B Kang, M Rodrigue, T HÃ¶llerer - 3D User Interfaces (3DUI) , 2013 - ieeexplore.ieee.org. ABSTRACT We present a method for predicting articulated hand poses in realtime with a  single depth camera, such as the Kinect or Xtion Pro, for the purpose of interaction in a  Mixed Reality environment and for studying the effects of realistic and non-realistic  .."
+-------------------------------------------------
+T-BUCKET: 5
+Qtd. Regs.: 1
+0
+ID: 5
+Titulo: Design and implementation of an immersive virtual reality system based on a smartphone platform.
+Ano: 2013
+Autores: Anthony Steed|Simon Julier
+Citacoes: 12
+Atualização: 2016-10-03 21:10:56
+Snippet: Design and implementation of an immersive virtual reality system based on a smartphone platform. A Steed, S Julier - 3D User Interfaces (3DUI), 2013 IEEE  , 2013 - ieeexplore.ieee.org. ABSTRACT With the increasing power of mobile CPUs and GPUs, it is becoming tractable to  integrate all the components of an interactive, immersive virtual reality system onto a small  mobile device. We present a demonstration of a head-mounted display system integrated  .."
+-------------------------------------------------
+T-BUCKET: 6
+Qtd. Regs.: 1
+0
+ID: 6
+Titulo: Poster: Lifted road map view on windshield display.
+Ano: 2013
+Autores: Takaya Kawamata|Itaru Kitahara|Yoshinari Kameda|Yuichi Ohta
+Citacoes: 1
+Atualização: 2016-10-03 21:34:50
+Snippet: Poster: Lifted road map view on windshield display. T Kawamata, I Kitahara, Y Kameda - 3D User Interfaces ( , 2013 - ieeexplore.ieee.org. ABSTRACT A new road map visualization method at window shield display for vehicle driver  is proposed. Road structure ahead of a vehicle is shown by CG line segments at the upper  area of driver view in augmented reality fashion. Road line segments are virtually placed  .."
+-------------------------------------------------
+T-BUCKET: 7
+Qtd. Regs.: 1
+0
+ID: 7
+Titulo: Poster: Comparing usability of a single versus dual interaction metaphor in a multitask healthcare simulation.
+Ano: 2013
+Autores: Lauren Cairco Dukes|Jeffrey W. Bertrand|Manan Gupta|Rowan Armstrong|Tracy Fasolino|Sabarish V. Babu|Larry F. Hodges
+Citacoes: 1
+Atualização: 2016-10-03 21:42:27
+Snippet: Poster: Comparing usability of a single versus dual interaction metaphor in a multitask healthcare simulation. LC Dukes, J Bertrand, M Gupta - 3D User Interfaces ( , 2013 - ieeexplore.ieee.org. ABSTRACT We present the results of a user study performed within a multitask healthcare  simulation, where nurses are required to care for virtual patients within a 3D virtual  environment while recording data in a 2D graphical user interface (GUI) based electronic  .."
+-------------------------------------------------
+T-BUCKET: 8
+Qtd. Regs.: 1
+0
+ID: 8
+Titulo: Poster: Creating a user-specific perspective view for mobile mixed reality systems on smartphones.
+Ano: 2013
+Autores: Yuki Matsuda|Fumihisa Shibata|Asako Kimura|Hideyuki Tamura
+Citacoes: 1
+Atualização: 2016-10-03 21:33:00
+Snippet: Poster: Creating a user-specific perspective view for mobile mixed reality systems on smartphones. Y Matsuda, F Shibata, A Kimura - 3D User Interfaces ( , 2013 - ieeexplore.ieee.org. ABSTRACT We propose a method for creating a user-specific perspective view for mobile  mixed reality (MR) systems that provides threedimensional perception based on pseudo  motion parallax. In general, most common mainstream interface for a hand-held AR/MR  .."
+-------------------------------------------------
+T-BUCKET: 9
+Qtd. Regs.: 1
+0
+ID: 9
+Titulo: Poster: Markerless fingertip-based 3D interaction for handheld augmented reality in a small workspace.
+Ano: 2013
+Autores: Huidong Bai|Lei Gao|Mark Billinghurst
+Citacoes: 5
+Atualização: 2016-10-03 20:58:04
+Snippet: Poster: Markerless fingertip-based 3D interaction for handheld augmented reality in a small workspace. H Bai, L Gao, M Billinghurst - 3D User Interfaces (3DUI), 2013  , 2013 - ieeexplore.ieee.org. ABSTRACT Compared with traditional screen-touch input, natural gesturebased interaction  approaches could offer a more intuitive user experience in handheld Augmented Reality  (AR) applications. However, most gesture interaction techniques for handheld AR only  .."
+-------------------------------------------------
+T-BUCKET: 10
+Qtd. Regs.: 1
+0
+ID: 10
+Titulo: Poster: A wearable augmented reality system with haptic feedback and its performance in virtual assembly tasks.
+Ano: 2013
+Autores: Kazuya Murakami|Ryo Kiyama|Takuji Narumi|Tomohiro Tanikawa|Michitaka Hirose
+Citacoes: 10
+Atualização: 2016-10-03 21:05:42
+Snippet: Poster: A wearable augmented reality system with haptic feedback and its performance in virtual assembly tasks. K Murakami, R Kiyama, T Narumi - 3D User Interfaces ( , 2013 - ieeexplore.ieee.org. ABSTRACT Haptic feedback is important to improve the operability of virtual objects.  However, AR systems with haptic feedback are still not many. Moreover, users cannot  perform tasks that need large workspaces in those systems because of physical  .."
+-------------------------------------------------
+T-BUCKET: 11
+Qtd. Regs.: 1
+0
+ID: 11
+Titulo: Tactile flow on seat pan modulates perceived forward velocity.
+Ano: 2013
+Autores: Tomohiro Amemiya|Koichi Hirota|Yasushi Ikei
+Citacoes: 2
+Atualização: 2016-10-03 21:34:39
+Snippet: Tactile flow on seat pan modulates perceived forward velocity. T Amemiya, K Hirota, Y Ikei - 3D User Interfaces (3DUI), 2013  , 2013 - ieeexplore.ieee.org. ABSTRACT We conducted a user study to clarify whether a tactile flow created by a matrix of  vibrators in a seat pan simultaneously presented with an optical flow in peripheral vision  enhances the perceived forward velocity of self-motion. A brief tactile motion stimulus  .."
+-------------------------------------------------
+T-BUCKET: 12
+Qtd. Regs.: 1
+0
+ID: 12
+Titulo: Poster: Observing change in crowded data sets in 3D space - Visualizing gene expression in human tissues.
+Ano: 2013
+Autores: Marcin Rogowski|Carlo Vittorio Cannistraci|Gregorio Alanis-Lobato|Philip P. Weber|Timothy Ravasi|J&uuml;rgen P. Schulze|Daniel Acevedo Feliz
+Citacoes: 0
+Atualização: 2012-12-31 23:00:00";NULL
+Snippet: ��U           seat pan modulates perceived forward velocity. T Amemiya, K Hirota, Y Ikei - 3D User Interfaces (3DUI), 2013  , 2013 - ieeexplore.ieee.org. ABSTRACT We conducted a user study to clarify whether a tactile flow created by a matrix of  vibrators in a seat pan simultaneously presented with an optical flow in peripheral vision  enhances the perceived forward velocity of self-motion. A brief tactile motion stimulus  .."
+-------------------------------------------------
+T-BUCKET: 13
+Qtd. Regs.: 1
+0
+ID: 13
+Titulo: Poster: Volume Cracker: A bimanual 3D interaction technique for analysis of raw volumetric data.
+Ano: 2013
+Autores: Bireswar Laha|Doug A. Bowman
+Citacoes: 1
+Atualização: 2016-10-03 21:35:55
+Snippet: Poster: Volume Cracker: A bimanual 3D interaction technique for analysis of raw volumetric data. B Laha, DA Bowman - 3D User Interfaces (3DUI), 2013 IEEE  , 2013 - ieeexplore.ieee.org. ABSTRACT Volume data analysis often involves finding structures inside the volume.  Segmentation is the standard method, but it is quite timeconsuming. Alternate approaches  remove context, assume prior definition of ROI or segments, or distort part of the volume.  .."
+-------------------------------------------------
+T-BUCKET: 14
+Qtd. Regs.: 1
+0
+ID: 14
+Titulo: DIY World Builder: An immersive level-editing system.
+Ano: 2013
+Autores: Jia Wang|Owen Leach|Robert W. Lindeman
+Citacoes: 4
+Atualização: 2016-10-03 20:54:41
+Snippet: DIY World Builder: An immersive level-editing system. J Wang, O Leach, RW Lindeman - 3D User Interfaces (3DUI),  , 2013 - ieeexplore.ieee.org. ABSTRACT This paper presents an immersive system for building virtual worlds from within  the worlds themselves. The system incorporates solutions for editing and texturing terrain,  adding foliage, water, structures, and text, adding and controlling lights, including the time  .."
+-------------------------------------------------
+T-BUCKET: 15
+Qtd. Regs.: 1
+0
+ID: 15
+Titulo: Poster: Paving the way into virtual reality - A transition in five stages.
+Ano: 2013
+Autores: Daniel Sproll|Jacob Freiberg|Timofey Grechkin|Bernhard E. Riecke
+Citacoes: 1
+Atualização: 2016-10-03 21:33:11
+Snippet: Poster: Paving the way into virtual reality-a transition in five stages. D Sproll, J Freiberg, T Grechkin - 3D User Interfaces ( , 2013 - ieeexplore.ieee.org. ABSTRACT Many of today's virtual reality (VR) setups are very much focused on technical  aspects rather then the benefits of a coherent user experience. This work explores the idea  of enhancing the VR experience with a transition phase. On a physical level, this transition  .."
+-------------------------------------------------
+T-BUCKET: 16
+Qtd. Regs.: 0
+0
+T-BUCKET: 17
+Qtd. Regs.: 0
+0
+T-BUCKET: 18
+Qtd. Regs.: 0
+0
+T-BUCKET: 19
+Qtd. Regs.: 0
+0
+T-BUCKET: 20
+Qtd. Regs.: 0
+0
+T-BUCKET: 21
+Qtd. Regs.: 0
+0
+T-BUCKET: 22
+Qtd. Regs.: 0
+0
+T-BUCKET: 23
+Qtd. Regs.: 0
+0
+T-BUCKET: 24
+Qtd. Regs.: 0
+0
+T-BUCKET: 25
+Qtd. Regs.: 0
+0
+T-BUCKET: 26
+Qtd. Regs.: 0
+0
+T-BUCKET: 27
+Qtd. Regs.: 0
+0
+T-BUCKET: 28
+Qtd. Regs.: 0
+0
+T-BUCKET: 29
+Qtd. Regs.: 0
+0
+T-BUCKET: 30
+Qtd. Regs.: 0
+0
+T-BUCKET: 31
+Qtd. Regs.: 0
+0
+T-BUCKET: 32
+Qtd. Regs.: 0
+0
+T-BUCKET: 33
+Qtd. Regs.: 0
+0
+T-BUCKET: 34
+Qtd. Regs.: 0
+0
+T-BUCKET: 35
+Qtd. Regs.: 0
+0
+T-BUCKET: 36
+Qtd. Regs.: 0
+0
+T-BUCKET: 37
+Qtd. Regs.: 0
+0
+T-BUCKET: 38
+Qtd. Regs.: 0
+0
+T-BUCKET: 39
+Qtd. Regs.: 0
+0
+T-BUCKET: 40
+Qtd. Regs.: 0
+0
+T-BUCKET: 41
+Qtd. Regs.: 0
+0
+T-BUCKET: 42
+Qtd. Regs.: 0
+0
+T-BUCKET: 43
+Qtd. Regs.: 0
+0
+T-BUCKET: 44
+Qtd. Regs.: 0
+0
+T-BUCKET: 45
+Qtd. Regs.: 0
+0
+T-BUCKET: 46
+Qtd. Regs.: 0
+0
+T-BUCKET: 47
+Qtd. Regs.: 0
+0
+T-BUCKET: 48
+Qtd. Regs.: 0
+0
+T-BUCKET: 49
+Qtd. Regs.: 0
+0
+T-BUCKET: 50
+Qtd. Regs.: 0
+0
+T-BUCKET: 51
+Qtd. Regs.: 0
+0
+T-BUCKET: 52
+Qtd. Regs.: 0
+0
+T-BUCKET: 53
+Qtd. Regs.: 0
+0
+T-BUCKET: 54
+Qtd. Regs.: 0
+0
+T-BUCKET: 55
+Qtd. Regs.: 0
+0
+T-BUCKET: 56
+Qtd. Regs.: 0
+0
+T-BUCKET: 57
+Qtd. Regs.: 0
+0
+T-BUCKET: 58
+Qtd. Regs.: 0
+0
+T-BUCKET: 59
+Qtd. Regs.: 0
+0
+T-BUCKET: 60
+Qtd. Regs.: 0
+0
+T-BUCKET: 61
+Qtd. Regs.: 0
+0
+T-BUCKET: 62
+Qtd. Regs.: 0
+0
+T-BUCKET: 63
+Qtd. Regs.: 0
+0
+T-BUCKET: 64
+Qtd. Regs.: 0
+0
+T-BUCKET: 65
+Qtd. Regs.: 0
+0
+T-BUCKET: 66
+Qtd. Regs.: 0
+0
+T-BUCKET: 67
+Qtd. Regs.: 0
+0
+T-BUCKET: 68
+Qtd. Regs.: 0
+0
+T-BUCKET: 69
+Qtd. Regs.: 0
+0
+T-BUCKET: 70
+Qtd. Regs.: 0
+0
+T-BUCKET: 71
+Qtd. Regs.: 0
+0
+T-BUCKET: 72
+Qtd. Regs.: 0
+0
+T-BUCKET: 73
+Qtd. Regs.: 0
+0
+T-BUCKET: 74
+Qtd. Regs.: 0
+0
+T-BUCKET: 75
+Qtd. Regs.: 0
+0
+T-BUCKET: 76
+Qtd. Regs.: 0
+0
+T-BUCKET: 77
+Qtd. Regs.: 0
+0
+T-BUCKET: 78
+Qtd. Regs.: 0
+0
+T-BUCKET: 79
+Qtd. Regs.: 0
+0
+T-BUCKET: 80
+Qtd. Regs.: 0
+0
+T-BUCKET: 81
+Qtd. Regs.: 0
+0
+T-BUCKET: 82
+Qtd. Regs.: 0
+0
+T-BUCKET: 83
+Qtd. Regs.: 0
+0
+T-BUCKET: 84
+Qtd. Regs.: 0
+0
+T-BUCKET: 85
+Qtd. Regs.: 0
+0
+T-BUCKET: 86
+Qtd. Regs.: 0
+0
+T-BUCKET: 87
+Qtd. Regs.: 0
+0
+T-BUCKET: 88
+Qtd. Regs.: 0
+0
+T-BUCKET: 89
+Qtd. Regs.: 0
+0
+T-BUCKET: 90
+Qtd. Regs.: 0
+0
+T-BUCKET: 91
+Qtd. Regs.: 0
+0
+T-BUCKET: 92
+Qtd. Regs.: 0
+0
+T-BUCKET: 93
+Qtd. Regs.: 0
+0
+T-BUCKET: 94
+Qtd. Regs.: 0
+0
+T-BUCKET: 95
+Qtd. Regs.: 0
+0
+T-BUCKET: 96
+Qtd. Regs.: 0
+0
+T-BUCKET: 97
+Qtd. Regs.: 0
+0
+T-BUCKET: 98
+Qtd. Regs.: 0
+0
+T-BUCKET: 99
+Qtd. Regs.: 0
+0
+T-BUCKET: 100
+Qtd. Regs.: 0
+0
+T-BUCKET: 101
+Qtd. Regs.: 0
+0
+T-BUCKET: 102
+Qtd. Regs.: 0
+0
+T-BUCKET: 103
+Qtd. Regs.: 0
+0
+T-BUCKET: 104
+Qtd. Regs.: 0
+0
+T-BUCKET: 105
+Qtd. Regs.: 0
+0
+T-BUCKET: 106
+Qtd. Regs.: 0
+0
+T-BUCKET: 107
+Qtd. Regs.: 0
+0
+T-BUCKET: 108
+Qtd. Regs.: 0
+0
+T-BUCKET: 109
+Qtd. Regs.: 0
+0
+T-BUCKET: 110
+Qtd. Regs.: 0
+0
+T-BUCKET: 111
+Qtd. Regs.: 0
+0
+T-BUCKET: 112
+Qtd. Regs.: 0
+0
+T-BUCKET: 113
+Qtd. Regs.: 0
+0
+T-BUCKET: 114
+Qtd. Regs.: 0
+0
+T-BUCKET: 115
+Qtd. Regs.: 0
+0
+T-BUCKET: 116
+Qtd. Regs.: 0
+0
+T-BUCKET: 117
+Qtd. Regs.: 0
+0
+T-BUCKET: 118
+Qtd. Regs.: 0
+0
+T-BUCKET: 119
+Qtd. Regs.: 0
+0
+T-BUCKET: 120
+Qtd. Regs.: 0
+0
+T-BUCKET: 121
+Qtd. Regs.: 0
+0
+T-BUCKET: 122
+Qtd. Regs.: 0
+0
+T-BUCKET: 123
+Qtd. Regs.: 0
+0
+T-BUCKET: 124
+Qtd. Regs.: 0
+0
+T-BUCKET: 125
+Qtd. Regs.: 0
+0
+T-BUCKET: 126
+Qtd. Regs.: 0
+0
+T-BUCKET: 127
+Qtd. Regs.: 0
+0
+T-BUCKET: 128
+Qtd. Regs.: 0
+0
+T-BUCKET: 129
+Qtd. Regs.: 0
+0
+T-BUCKET: 130
+Qtd. Regs.: 0
+0
+T-BUCKET: 131
+Qtd. Regs.: 0
+0
+T-BUCKET: 132
+Qtd. Regs.: 0
+0
+T-BUCKET: 133
+Qtd. Regs.: 0
+0
+T-BUCKET: 134
+Qtd. Regs.: 0
+0
+T-BUCKET: 135
+Qtd. Regs.: 0
+0
+T-BUCKET: 136
+Qtd. Regs.: 0
+0
+T-BUCKET: 137
+Qtd. Regs.: 0
+0
+T-BUCKET: 138
+Qtd. Regs.: 0
+0
+T-BUCKET: 139
+Qtd. Regs.: 0
+0
+T-BUCKET: 140
+Qtd. Regs.: 0
+0
+T-BUCKET: 141
+Qtd. Regs.: 0
+0
+T-BUCKET: 142
+Qtd. Regs.: 0
+0
+T-BUCKET: 143
+Qtd. Regs.: 0
+0
+T-BUCKET: 144
+Qtd. Regs.: 0
+0
+T-BUCKET: 145
+Qtd. Regs.: 0
+0
+T-BUCKET: 146
+Qtd. Regs.: 0
+0
+T-BUCKET: 147
+Qtd. Regs.: 0
+0
+T-BUCKET: 148
+Qtd. Regs.: 0
+0
+T-BUCKET: 149
+Qtd. Regs.: 0
+0
+T-BUCKET: 150
+Qtd. Regs.: 0
+0
+T-BUCKET: 151
+Qtd. Regs.: 0
+0
+T-BUCKET: 152
+Qtd. Regs.: 0
+0
+T-BUCKET: 153
+Qtd. Regs.: 0
+0
+T-BUCKET: 154
+Qtd. Regs.: 0
+0
+T-BUCKET: 155
+Qtd. Regs.: 0
+0
+T-BUCKET: 156
+Qtd. Regs.: 0
+0
+T-BUCKET: 157
+Qtd. Regs.: 0
+0
+T-BUCKET: 158
+Qtd. Regs.: 0
+0
+T-BUCKET: 159
+Qtd. Regs.: 0
+0
+T-BUCKET: 160
+Qtd. Regs.: 0
+0
+T-BUCKET: 161
+Qtd. Regs.: 0
+0
+T-BUCKET: 162
+Qtd. Regs.: 0
+0
+T-BUCKET: 163
+Qtd. Regs.: 0
+0
+T-BUCKET: 164
+Qtd. Regs.: 0
+0
+T-BUCKET: 165
+Qtd. Regs.: 0
+0
+T-BUCKET: 166
+Qtd. Regs.: 0
+0
+T-BUCKET: 167
+Qtd. Regs.: 0
+0
+T-BUCKET: 168
+Qtd. Regs.: 0
+0
+T-BUCKET: 169
+Qtd. Regs.: 0
+0
+T-BUCKET: 170
+Qtd. Regs.: 0
+0
+T-BUCKET: 171
+Qtd. Regs.: 0
+0
+T-BUCKET: 172
+Qtd. Regs.: 0
+0
+T-BUCKET: 173
+Qtd. Regs.: 0
+0
+T-BUCKET: 174
+Qtd. Regs.: 0
+0
+T-BUCKET: 175
+Qtd. Regs.: 0
+0
+T-BUCKET: 176
+Qtd. Regs.: 0
+0
+T-BUCKET: 177
+Qtd. Regs.: 0
+0
+T-BUCKET: 178
+Qtd. Regs.: 0
+0
+T-BUCKET: 179
+Qtd. Regs.: 0
+0
+T-BUCKET: 180
+Qtd. Regs.: 0
+0
+T-BUCKET: 181
+Qtd. Regs.: 0
+0
+T-BUCKET: 182
+Qtd. Regs.: 0
+0
+T-BUCKET: 183
+Qtd. Regs.: 0
+0
+T-BUCKET: 184
+Qtd. Regs.: 0
+0
+T-BUCKET: 185
+Qtd. Regs.: 0
+0
+T-BUCKET: 186
+Qtd. Regs.: 0
+0
+T-BUCKET: 187
+Qtd. Regs.: 0
+0
+T-BUCKET: 188
+Qtd. Regs.: 0
+0
+T-BUCKET: 189
+Qtd. Regs.: 0
+0
+T-BUCKET: 190
+Qtd. Regs.: 0
+0
+T-BUCKET: 191
+Qtd. Regs.: 0
+0
+T-BUCKET: 192
+Qtd. Regs.: 0
+0
+T-BUCKET: 193
+Qtd. Regs.: 0
+0
+T-BUCKET: 194
+Qtd. Regs.: 0
+0
+T-BUCKET: 195
+Qtd. Regs.: 0
+0
+T-BUCKET: 196
+Qtd. Regs.: 0
+0
+T-BUCKET: 197
+Qtd. Regs.: 0
+0
+T-BUCKET: 198
+Qtd. Regs.: 0
+0
+T-BUCKET: 199
+Qtd. Regs.: 0
+0
+T-BUCKET: 200
+Qtd. Regs.: 0
+0
+T-BUCKET: 201
+Qtd. Regs.: 0
+0
+T-BUCKET: 202
+Qtd. Regs.: 0
+0
+T-BUCKET: 203
+Qtd. Regs.: 0
+0
+T-BUCKET: 204
+Qtd. Regs.: 0
+0
+T-BUCKET: 205
+Qtd. Regs.: 0
+0
+T-BUCKET: 206
+Qtd. Regs.: 0
+0
+T-BUCKET: 207
+Qtd. Regs.: 0
+0
+T-BUCKET: 208
+Qtd. Regs.: 0
+0
+T-BUCKET: 209
+Qtd. Regs.: 0
+0
+T-BUCKET: 210
+Qtd. Regs.: 0
+0
+T-BUCKET: 211
+Qtd. Regs.: 0
+0
+T-BUCKET: 212
+Qtd. Regs.: 0
+0
+T-BUCKET: 213
+Qtd. Regs.: 0
+0
+T-BUCKET: 214
+Qtd. Regs.: 0
+0
+T-BUCKET: 215
+Qtd. Regs.: 0
+0
+T-BUCKET: 216
+Qtd. Regs.: 0
+0
+T-BUCKET: 217
+Qtd. Regs.: 0
+0
+T-BUCKET: 218
+Qtd. Regs.: 0
+0
+T-BUCKET: 219
+Qtd. Regs.: 0
+0
+T-BUCKET: 220
+Qtd. Regs.: 0
+0
+T-BUCKET: 221
+Qtd. Regs.: 0
+0
+T-BUCKET: 222
+Qtd. Regs.: 0
+0
+T-BUCKET: 223
+Qtd. Regs.: 0
+0
+T-BUCKET: 224
+Qtd. Regs.: 0
+0
+T-BUCKET: 225
+Qtd. Regs.: 0
+0
+T-BUCKET: 226
+Qtd. Regs.: 0
+0
+T-BUCKET: 227
+Qtd. Regs.: 0
+0
+T-BUCKET: 228
+Qtd. Regs.: 0
+0
+T-BUCKET: 229
+Qtd. Regs.: 0
+0
+T-BUCKET: 230
+Qtd. Regs.: 0
+0
+T-BUCKET: 231
+Qtd. Regs.: 0
+0
+T-BUCKET: 232
+Qtd. Regs.: 0
+0
+T-BUCKET: 233
+Qtd. Regs.: 0
+0
+T-BUCKET: 234
+Qtd. Regs.: 0
+0
+T-BUCKET: 235
+Qtd. Regs.: 0
+0
+T-BUCKET: 236
+Qtd. Regs.: 0
+0
+T-BUCKET: 237
+Qtd. Regs.: 0
+0
+T-BUCKET: 238
+Qtd. Regs.: 0
+0
+T-BUCKET: 239
+Qtd. Regs.: 0
+0
+T-BUCKET: 240
+Qtd. Regs.: 0
+0
+T-BUCKET: 241
+Qtd. Regs.: 0
+0
+T-BUCKET: 242
+Qtd. Regs.: 0
+0
+T-BUCKET: 243
+Qtd. Regs.: 0
+0
+T-BUCKET: 244
+Qtd. Regs.: 0
+0
+T-BUCKET: 245
+Qtd. Regs.: 0
+0
+T-BUCKET: 246
+Qtd. Regs.: 0
+0
+T-BUCKET: 247
+Qtd. Regs.: 0
+0
+T-BUCKET: 248
+Qtd. Regs.: 0
+0
+T-BUCKET: 249
+Qtd. Regs.: 0
+0
+T-BUCKET: 250
+Qtd. Regs.: 0
+0
+T-BUCKET: 251
+Qtd. Regs.: 0
+0
+T-BUCKET: 252
+Qtd. Regs.: 0
+0
+T-BUCKET: 253
+Qtd. Regs.: 0
+0
+T-BUCKET: 254
+Qtd. Regs.: 0
+0
+T-BUCKET: 255
+Qtd. Regs.: 0
+0
+T-BUCKET: 256
+Qtd. Regs.: 0
+0
+T-BUCKET: 257
+Qtd. Regs.: 0
+0
+T-BUCKET: 258
+Qtd. Regs.: 0
+0
+T-BUCKET: 259
+Qtd. Regs.: 0
+0
+T-BUCKET: 260
+Qtd. Regs.: 0
+0
+T-BUCKET: 261
+Qtd. Regs.: 0
+0
+T-BUCKET: 262
+Qtd. Regs.: 0
+0
+T-BUCKET: 263
+Qtd. Regs.: 0
+0
+T-BUCKET: 264
+Qtd. Regs.: 0
+0
+T-BUCKET: 265
+Qtd. Regs.: 0
+0
+T-BUCKET: 266
+Qtd. Regs.: 0
+0
+T-BUCKET: 267
+Qtd. Regs.: 0
+0
+T-BUCKET: 268
+Qtd. Regs.: 0
+0
+T-BUCKET: 269
+Qtd. Regs.: 0
+0
+T-BUCKET: 270
+Qtd. Regs.: 0
+0
+T-BUCKET: 271
+Qtd. Regs.: 0
+0
+T-BUCKET: 272
+Qtd. Regs.: 0
+0
+T-BUCKET: 273
+Qtd. Regs.: 0
+0
+T-BUCKET: 274
+Qtd. Regs.: 0
+0
+T-BUCKET: 275
+Qtd. Regs.: 0
+0
+T-BUCKET: 276
+Qtd. Regs.: 0
+0
+T-BUCKET: 277
+Qtd. Regs.: 0
+0
+T-BUCKET: 278
+Qtd. Regs.: 0
+0
+T-BUCKET: 279
+Qtd. Regs.: 0
+0
+T-BUCKET: 280
+Qtd. Regs.: 0
+0
+T-BUCKET: 281
+Qtd. Regs.: 0
+0
+T-BUCKET: 282
+Qtd. Regs.: 0
+0
+T-BUCKET: 283
+Qtd. Regs.: 0
+0
+T-BUCKET: 284
+Qtd. Regs.: 0
+0
+T-BUCKET: 285
+Qtd. Regs.: 0
+0
+T-BUCKET: 286
+Qtd. Regs.: 0
+0
+T-BUCKET: 287
+Qtd. Regs.: 0
+0
+T-BUCKET: 288
+Qtd. Regs.: 0
+0
+T-BUCKET: 289
+Qtd. Regs.: 0
+0
+T-BUCKET: 290
+Qtd. Regs.: 0
+0
+T-BUCKET: 291
+Qtd. Regs.: 0
+0
+T-BUCKET: 292
+Qtd. Regs.: 0
+0
+T-BUCKET: 293
+Qtd. Regs.: 0
+0
+T-BUCKET: 294
+Qtd. Regs.: 0
+0
+T-BUCKET: 295
+Qtd. Regs.: 0
+0
+T-BUCKET: 296
+Qtd. Regs.: 0
+0
+T-BUCKET: 297
+Qtd. Regs.: 0
+0
+T-BUCKET: 298
+Qtd. Regs.: 0
+0
+T-BUCKET: 299
+Qtd. Regs.: 0
+0
+T-BUCKET: 300
+Qtd. Regs.: 0
+0
+T-BUCKET: 301
+Qtd. Regs.: 0
+0
+T-BUCKET: 302
+Qtd. Regs.: 0
+0
+T-BUCKET: 303
+Qtd. Regs.: 0
+0
+T-BUCKET: 304
+Qtd. Regs.: 0
+0
+T-BUCKET: 305
+Qtd. Regs.: 0
+0
+T-BUCKET: 306
+Qtd. Regs.: 0
+0
+T-BUCKET: 307
+Qtd. Regs.: 0
+0
+T-BUCKET: 308
+Qtd. Regs.: 0
+0
+T-BUCKET: 309
+Qtd. Regs.: 0
+0
+T-BUCKET: 310
+Qtd. Regs.: 0
+0
+T-BUCKET: 311
+Qtd. Regs.: 0
+0
+T-BUCKET: 312
+Qtd. Regs.: 0
+0
+T-BUCKET: 313
+Qtd. Regs.: 0
+0
+T-BUCKET: 314
+Qtd. Regs.: 0
+0
+T-BUCKET: 315
+Qtd. Regs.: 0
+0
+T-BUCKET: 316
+Qtd. Regs.: 0
+0
+T-BUCKET: 317
+Qtd. Regs.: 0
+0
+T-BUCKET: 318
+Qtd. Regs.: 0
+0
+T-BUCKET: 319
+Qtd. Regs.: 0
+0
+T-BUCKET: 320
+Qtd. Regs.: 0
+0
+T-BUCKET: 321
+Qtd. Regs.: 0
+0
+T-BUCKET: 322
+Qtd. Regs.: 0
+0
+T-BUCKET: 323
+Qtd. Regs.: 0
+0
+T-BUCKET: 324
+Qtd. Regs.: 0
+0
+T-BUCKET: 325
+Qtd. Regs.: 0
+0
+T-BUCKET: 326
+Qtd. Regs.: 0
+0
+T-BUCKET: 327
+Qtd. Regs.: 0
+0
+T-BUCKET: 328
+Qtd. Regs.: 0
+0
+T-BUCKET: 329
+Qtd. Regs.: 0
+0
+T-BUCKET: 330
+Qtd. Regs.: 0
+0
+T-BUCKET: 331
+Qtd. Regs.: 0
+0
+T-BUCKET: 332
+Qtd. Regs.: 0
+0
+T-BUCKET: 333
+Qtd. Regs.: 0
+0
+T-BUCKET: 334
+Qtd. Regs.: 0
+0
+T-BUCKET: 335
+Qtd. Regs.: 0
+0
+T-BUCKET: 336
+Qtd. Regs.: 0
+0
+T-BUCKET: 337
+Qtd. Regs.: 0
+0
+T-BUCKET: 338
+Qtd. Regs.: 0
+0
+T-BUCKET: 339
+Qtd. Regs.: 0
+0
+T-BUCKET: 340
+Qtd. Regs.: 0
+0
+T-BUCKET: 341
+Qtd. Regs.: 0
+0
+T-BUCKET: 342
+Qtd. Regs.: 0
+0
+T-BUCKET: 343
+Qtd. Regs.: 0
+0
+T-BUCKET: 344
+Qtd. Regs.: 0
+0
+T-BUCKET: 345
+Qtd. Regs.: 0
+0
+T-BUCKET: 346
+Qtd. Regs.: 0
+0
+T-BUCKET: 347
+Qtd. Regs.: 0
+0
+T-BUCKET: 348
+Qtd. Regs.: 0
+0
+T-BUCKET: 349
+Qtd. Regs.: 0
+0
+T-BUCKET: 350
+Qtd. Regs.: 0
+0
+T-BUCKET: 351
+Qtd. Regs.: 0
+0
+T-BUCKET: 352
+Qtd. Regs.: 0
+0
+T-BUCKET: 353
+Qtd. Regs.: 0
+0
+T-BUCKET: 354
+Qtd. Regs.: 0
+0
+T-BUCKET: 355
+Qtd. Regs.: 0
+0
+T-BUCKET: 356
+Qtd. Regs.: 0
+0
+T-BUCKET: 357
+Qtd. Regs.: 0
+0
+T-BUCKET: 358
+Qtd. Regs.: 0
+0
+T-BUCKET: 359
+Qtd. Regs.: 0
+0
+T-BUCKET: 360
+Qtd. Regs.: 0
+0
+T-BUCKET: 361
+Qtd. Regs.: 0
+0
+T-BUCKET: 362
+Qtd. Regs.: 0
+0
+T-BUCKET: 363
+Qtd. Regs.: 0
+0
+T-BUCKET: 364
+Qtd. Regs.: 0
+0
+T-BUCKET: 365
+Qtd. Regs.: 0
+0
+T-BUCKET: 366
+Qtd. Regs.: 0
+0
+T-BUCKET: 367
+Qtd. Regs.: 0
+0
+T-BUCKET: 368
+Qtd. Regs.: 0
+0
+T-BUCKET: 369
+Qtd. Regs.: 0
+0
+T-BUCKET: 370
+Qtd. Regs.: 0
+0
+T-BUCKET: 371
+Qtd. Regs.: 0
+0
+T-BUCKET: 372
+Qtd. Regs.: 0
+0
+T-BUCKET: 373
+Qtd. Regs.: 0
+0
+T-BUCKET: 374
+Qtd. Regs.: 0
+0
+T-BUCKET: 375
+Qtd. Regs.: 0
+0
+T-BUCKET: 376
+Qtd. Regs.: 0
+0
+T-BUCKET: 377
+Qtd. Regs.: 0
+0
+T-BUCKET: 378
+Qtd. Regs.: 0
+0
+T-BUCKET: 379
+Qtd. Regs.: 0
+0
+T-BUCKET: 380
+Qtd. Regs.: 0
+0
+T-BUCKET: 381
+Qtd. Regs.: 0
+0
+T-BUCKET: 382
+Qtd. Regs.: 0
+0
+T-BUCKET: 383
+Qtd. Regs.: 0
+0
+T-BUCKET: 384
+Qtd. Regs.: 0
+0
+T-BUCKET: 385
+Qtd. Regs.: 0
+0
+T-BUCKET: 386
+Qtd. Regs.: 0
+0
+T-BUCKET: 387
+Qtd. Regs.: 0
+0
+T-BUCKET: 388
+Qtd. Regs.: 0
+0
+T-BUCKET: 389
+Qtd. Regs.: 0
+0
+T-BUCKET: 390
+Qtd. Regs.: 0
+0
+T-BUCKET: 391
+Qtd. Regs.: 0
+0
+T-BUCKET: 392
+Qtd. Regs.: 0
+0
+T-BUCKET: 393
+Qtd. Regs.: 0
+0
+T-BUCKET: 394
+Qtd. Regs.: 0
+0
+T-BUCKET: 395
+Qtd. Regs.: 0
+0
+T-BUCKET: 396
+Qtd. Regs.: 0
+0
+T-BUCKET: 397
+Qtd. Regs.: 0
+0
+T-BUCKET: 398
+Qtd. Regs.: 0
+0
+T-BUCKET: 399
+Qtd. Regs.: 0
+0
+T-BUCKET: 400
+Qtd. Regs.: 0
+0
+T-BUCKET: 401
+Qtd. Regs.: 0
+0
+T-BUCKET: 402
+Qtd. Regs.: 0
+0
+T-BUCKET: 403
+Qtd. Regs.: 0
+0
+T-BUCKET: 404
+Qtd. Regs.: 0
+0
+T-BUCKET: 405
+Qtd. Regs.: 0
+0
+T-BUCKET: 406
+Qtd. Regs.: 0
+0
+T-BUCKET: 407
+Qtd. Regs.: 0
+0
+T-BUCKET: 408
+Qtd. Regs.: 0
+0
+T-BUCKET: 409
+Qtd. Regs.: 0
+0
+T-BUCKET: 410
+Qtd. Regs.: 0
+0
+T-BUCKET: 411
+Qtd. Regs.: 0
+0
+T-BUCKET: 412
+Qtd. Regs.: 0
+0
+T-BUCKET: 413
+Qtd. Regs.: 0
+0
+T-BUCKET: 414
+Qtd. Regs.: 0
+0
+T-BUCKET: 415
+Qtd. Regs.: 0
+0
+T-BUCKET: 416
+Qtd. Regs.: 0
+0
+T-BUCKET: 417
+Qtd. Regs.: 0
+0
+T-BUCKET: 418
+Qtd. Regs.: 0
+0
+T-BUCKET: 419
+Qtd. Regs.: 0
+0
+T-BUCKET: 420
+Qtd. Regs.: 0
+0
+T-BUCKET: 421
+Qtd. Regs.: 0
+0
+T-BUCKET: 422
+Qtd. Regs.: 0
+0
+T-BUCKET: 423
+Qtd. Regs.: 0
+0
+T-BUCKET: 424
+Qtd. Regs.: 0
+0
+T-BUCKET: 425
+Qtd. Regs.: 0
+0
+T-BUCKET: 426
+Qtd. Regs.: 0
+0
+T-BUCKET: 427
+Qtd. Regs.: 0
+0
+T-BUCKET: 428
+Qtd. Regs.: 0
+0
+T-BUCKET: 429
+Qtd. Regs.: 0
+0
+T-BUCKET: 430
+Qtd. Regs.: 0
+0
+T-BUCKET: 431
+Qtd. Regs.: 0
+0
+T-BUCKET: 432
+Qtd. Regs.: 0
+0
+T-BUCKET: 433
+Qtd. Regs.: 0
+0
+T-BUCKET: 434
+Qtd. Regs.: 0
+0
+T-BUCKET: 435
+Qtd. Regs.: 0
+0
+T-BUCKET: 436
+Qtd. Regs.: 0
+0
+T-BUCKET: 437
+Qtd. Regs.: 0
+0
+T-BUCKET: 438
+Qtd. Regs.: 0
+0
+T-BUCKET: 439
+Qtd. Regs.: 0
+0
+T-BUCKET: 440
+Qtd. Regs.: 0
+0
+T-BUCKET: 441
+Qtd. Regs.: 0
+0
+T-BUCKET: 442
+Qtd. Regs.: 0
+0
+T-BUCKET: 443
+Qtd. Regs.: 0
+0
+T-BUCKET: 444
+Qtd. Regs.: 0
+0
+T-BUCKET: 445
+Qtd. Regs.: 0
+0
+T-BUCKET: 446
+Qtd. Regs.: 0
+0
+T-BUCKET: 447
+Qtd. Regs.: 0
+0
+T-BUCKET: 448
+Qtd. Regs.: 0
+0
+T-BUCKET: 449
+Qtd. Regs.: 0
+0
+T-BUCKET: 450
+Qtd. Regs.: 0
+0
+T-BUCKET: 451
+Qtd. Regs.: 0
+0
+T-BUCKET: 452
+Qtd. Regs.: 0
+0
+T-BUCKET: 453
+Qtd. Regs.: 0
+0
+T-BUCKET: 454
+Qtd. Regs.: 0
+0
+T-BUCKET: 455
+Qtd. Regs.: 0
+0
+T-BUCKET: 456
+Qtd. Regs.: 0
+0
+T-BUCKET: 457
+Qtd. Regs.: 0
+0
+T-BUCKET: 458
+Qtd. Regs.: 0
+0
+T-BUCKET: 459
+Qtd. Regs.: 0
+0
+T-BUCKET: 460
+Qtd. Regs.: 0
+0
+T-BUCKET: 461
+Qtd. Regs.: 0
+0
+T-BUCKET: 462
+Qtd. Regs.: 0
+0
+T-BUCKET: 463
+Qtd. Regs.: 0
+0
+T-BUCKET: 464
+Qtd. Regs.: 0
+0
+T-BUCKET: 465
+Qtd. Regs.: 0
+0
+T-BUCKET: 466
+Qtd. Regs.: 0
+0
+T-BUCKET: 467
+Qtd. Regs.: 0
+0
+T-BUCKET: 468
+Qtd. Regs.: 0
+0
+T-BUCKET: 469
+Qtd. Regs.: 0
+0
+T-BUCKET: 470
+Qtd. Regs.: 0
+0
+T-BUCKET: 471
+Qtd. Regs.: 0
+0
+T-BUCKET: 472
+Qtd. Regs.: 0
+0
+T-BUCKET: 473
+Qtd. Regs.: 0
+0
+T-BUCKET: 474
+Qtd. Regs.: 0
+0
+T-BUCKET: 475
+Qtd. Regs.: 0
+0
+T-BUCKET: 476
+Qtd. Regs.: 0
+0
+T-BUCKET: 477
+Qtd. Regs.: 0
+0
+T-BUCKET: 478
+Qtd. Regs.: 0
+0
+T-BUCKET: 479
+Qtd. Regs.: 0
+0
+T-BUCKET: 480
+Qtd. Regs.: 0
+0
+T-BUCKET: 481
+Qtd. Regs.: 0
+0
+T-BUCKET: 482
+Qtd. Regs.: 0
+0
+T-BUCKET: 483
+Qtd. Regs.: 0
+0
+T-BUCKET: 484
+Qtd. Regs.: 0
+0
+T-BUCKET: 485
+Qtd. Regs.: 0
+0
+T-BUCKET: 486
+Qtd. Regs.: 0
+0
+T-BUCKET: 487
+Qtd. Regs.: 0
+0
+T-BUCKET: 488
+Qtd. Regs.: 0
+0
+T-BUCKET: 489
+Qtd. Regs.: 0
+0
+T-BUCKET: 490
+Qtd. Regs.: 0
+0
+T-BUCKET: 491
+Qtd. Regs.: 0
+0
+T-BUCKET: 492
+Qtd. Regs.: 0
+0
+T-BUCKET: 493
+Qtd. Regs.: 0
+0
+T-BUCKET: 494
+Qtd. Regs.: 0
+0
+T-BUCKET: 495
+Qtd. Regs.: 0
+0
+T-BUCKET: 496
+Qtd. Regs.: 0
+0
+T-BUCKET: 497
+Qtd. Regs.: 0
+0
+T-BUCKET: 498
+Qtd. Regs.: 0
+0
+T-BUCKET: 499
+Qtd. Regs.: 0
+0
+T-BUCKET: 500
+Qtd. Regs.: 0
+0
+T-BUCKET: 501
+Qtd. Regs.: 0
+0
+T-BUCKET: 502
+Qtd. Regs.: 0
+0
+T-BUCKET: 503
+Qtd. Regs.: 0
+0
+T-BUCKET: 504
+Qtd. Regs.: 0
+0
+T-BUCKET: 505
+Qtd. Regs.: 0
+0
+T-BUCKET: 506
+Qtd. Regs.: 0
+0
+T-BUCKET: 507
+Qtd. Regs.: 0
+0
+T-BUCKET: 508
+Qtd. Regs.: 0
+0
+T-BUCKET: 509
+Qtd. Regs.: 0
+0
+T-BUCKET: 510
+Qtd. Regs.: 0
+0
+T-BUCKET: 511
+Qtd. Regs.: 0
+0
+T-BUCKET: 512
+Qtd. Regs.: 0
+0
+T-BUCKET: 513
+Qtd. Regs.: 0
+0
+T-BUCKET: 514
+Qtd. Regs.: 0
+0
+T-BUCKET: 515
+Qtd. Regs.: 0
+0
+T-BUCKET: 516
+Qtd. Regs.: 0
+0
+T-BUCKET: 517
+Qtd. Regs.: 0
+0
+T-BUCKET: 518
+Qtd. Regs.: 0
+0
+T-BUCKET: 519
+Qtd. Regs.: 0
+0
+T-BUCKET: 520
+Qtd. Regs.: 0
+0
+T-BUCKET: 521
+Qtd. Regs.: 0
+0
+T-BUCKET: 522
+Qtd. Regs.: 0
+0
+T-BUCKET: 523
+Qtd. Regs.: 0
+0
+T-BUCKET: 524
+Qtd. Regs.: 0
+0
+T-BUCKET: 525
+Qtd. Regs.: 0
+0
+T-BUCKET: 526
+Qtd. Regs.: 0
+0
+T-BUCKET: 527
+Qtd. Regs.: 0
+0
+T-BUCKET: 528
+Qtd. Regs.: 0
+0
+T-BUCKET: 529
+Qtd. Regs.: 0
+0
+T-BUCKET: 530
+Qtd. Regs.: 0
+0
+T-BUCKET: 531
+Qtd. Regs.: 0
+0
+T-BUCKET: 532
+Qtd. Regs.: 0
+0
+T-BUCKET: 533
+Qtd. Regs.: 0
+0
+T-BUCKET: 534
+Qtd. Regs.: 0
+0
+T-BUCKET: 535
+Qtd. Regs.: 0
+0
+T-BUCKET: 536
+Qtd. Regs.: 0
+0
+T-BUCKET: 537
+Qtd. Regs.: 0
+0
+T-BUCKET: 538
+Qtd. Regs.: 0
+0
+T-BUCKET: 539
+Qtd. Regs.: 0
+0
+T-BUCKET: 540
+Qtd. Regs.: 0
+0
+T-BUCKET: 541
+Qtd. Regs.: 0
+0
+T-BUCKET: 542
+Qtd. Regs.: 0
+0
+T-BUCKET: 543
+Qtd. Regs.: 0
+0
+T-BUCKET: 544
+Qtd. Regs.: 0
+0
+T-BUCKET: 545
+Qtd. Regs.: 0
+0
+T-BUCKET: 546
+Qtd. Regs.: 0
+0
+T-BUCKET: 547
+Qtd. Regs.: 0
+0
+T-BUCKET: 548
+Qtd. Regs.: 0
+0
+T-BUCKET: 549
+Qtd. Regs.: 0
+0
+T-BUCKET: 550
+Qtd. Regs.: 0
+0
+T-BUCKET: 551
+Qtd. Regs.: 0
+0
+T-BUCKET: 552
+Qtd. Regs.: 0
+0
+T-BUCKET: 553
+Qtd. Regs.: 0
+0
+T-BUCKET: 554
+Qtd. Regs.: 0
+0
+T-BUCKET: 555
+Qtd. Regs.: 0
+0
+T-BUCKET: 556
+Qtd. Regs.: 0
+0
+T-BUCKET: 557
+Qtd. Regs.: 0
+0
+T-BUCKET: 558
+Qtd. Regs.: 0
+0
+T-BUCKET: 559
+Qtd. Regs.: 0
+0
+T-BUCKET: 560
+Qtd. Regs.: 0
+0
+T-BUCKET: 561
+Qtd. Regs.: 0
+0
+T-BUCKET: 562
+Qtd. Regs.: 0
+0
+T-BUCKET: 563
+Qtd. Regs.: 0
+0
+T-BUCKET: 564
+Qtd. Regs.: 0
+0
+T-BUCKET: 565
+Qtd. Regs.: 0
+0
+T-BUCKET: 566
+Qtd. Regs.: 0
+0
+T-BUCKET: 567
+Qtd. Regs.: 0
+0
+T-BUCKET: 568
+Qtd. Regs.: 0
+0
+T-BUCKET: 569
+Qtd. Regs.: 0
+0
+T-BUCKET: 570
+Qtd. Regs.: 0
+0
+T-BUCKET: 571
+Qtd. Regs.: 0
+0
+T-BUCKET: 572
+Qtd. Regs.: 0
+0
+T-BUCKET: 573
+Qtd. Regs.: 0
+0
+T-BUCKET: 574
+Qtd. Regs.: 0
+0
+T-BUCKET: 575
+Qtd. Regs.: 0
+0
+T-BUCKET: 576
+Qtd. Regs.: 0
+0
+T-BUCKET: 577
+Qtd. Regs.: 0
+0
+T-BUCKET: 578
+Qtd. Regs.: 0
+0
+T-BUCKET: 579
+Qtd. Regs.: 0
+0
+T-BUCKET: 580
+Qtd. Regs.: 0
+0
+T-BUCKET: 581
+Qtd. Regs.: 0
+0
+T-BUCKET: 582
+Qtd. Regs.: 0
+0
+T-BUCKET: 583
+Qtd. Regs.: 0
+0
+T-BUCKET: 584
+Qtd. Regs.: 0
+0
+T-BUCKET: 585
+Qtd. Regs.: 0
+0
+T-BUCKET: 586
+Qtd. Regs.: 0
+0
+T-BUCKET: 587
+Qtd. Regs.: 0
+0
+T-BUCKET: 588
+Qtd. Regs.: 0
+0
+T-BUCKET: 589
+Qtd. Regs.: 0
+0
+T-BUCKET: 590
+Qtd. Regs.: 0
+0
+T-BUCKET: 591
+Qtd. Regs.: 0
+0
+T-BUCKET: 592
+Qtd. Regs.: 0
+0
+T-BUCKET: 593
+Qtd. Regs.: 0
+0
+T-BUCKET: 594
+Qtd. Regs.: 0
+0
+T-BUCKET: 595
+Qtd. Regs.: 0
+0
+T-BUCKET: 596
+Qtd. Regs.: 0
+0
+T-BUCKET: 597
+Qtd. Regs.: 0
+0
+T-BUCKET: 598
+Qtd. Regs.: 0
+0
+T-BUCKET: 599
+Qtd. Regs.: 0
+0
+T-BUCKET: 600
+Qtd. Regs.: 0
+0
+T-BUCKET: 601
+Qtd. Regs.: 0
+0
+T-BUCKET: 602
+Qtd. Regs.: 0
+0
+T-BUCKET: 603
+Qtd. Regs.: 0
+0
+T-BUCKET: 604
+Qtd. Regs.: 0
+0
+T-BUCKET: 605
+Qtd. Regs.: 0
+0
+T-BUCKET: 606
+Qtd. Regs.: 0
+0
+T-BUCKET: 607
+Qtd. Regs.: 0
+0
+T-BUCKET: 608
+Qtd. Regs.: 0
+0
+T-BUCKET: 609
+Qtd. Regs.: 0
+0
+T-BUCKET: 610
+Qtd. Regs.: 0
+0
+T-BUCKET: 611
+Qtd. Regs.: 0
+0
+T-BUCKET: 612
+Qtd. Regs.: 0
+0
+T-BUCKET: 613
+Qtd. Regs.: 0
+0
+T-BUCKET: 614
+Qtd. Regs.: 0
+0
+T-BUCKET: 615
+Qtd. Regs.: 0
+0
+T-BUCKET: 616
+Qtd. Regs.: 0
+0
+T-BUCKET: 617
+Qtd. Regs.: 0
+0
+T-BUCKET: 618
+Qtd. Regs.: 0
+0
+T-BUCKET: 619
+Qtd. Regs.: 0
+0
+T-BUCKET: 620
+Qtd. Regs.: 0
+0
+T-BUCKET: 621
+Qtd. Regs.: 0
+0
+T-BUCKET: 622
+Qtd. Regs.: 0
+0
+T-BUCKET: 623
+Qtd. Regs.: 0
+0
+T-BUCKET: 624
+Qtd. Regs.: 0
+0
+T-BUCKET: 625
+Qtd. Regs.: 0
+0
+T-BUCKET: 626
+Qtd. Regs.: 0
+0
+T-BUCKET: 627
+Qtd. Regs.: 0
+0
+T-BUCKET: 628
+Qtd. Regs.: 0
+0
+T-BUCKET: 629
+Qtd. Regs.: 0
+0
+T-BUCKET: 630
+Qtd. Regs.: 0
+0
+T-BUCKET: 631
+Qtd. Regs.: 0
+0
+T-BUCKET: 632
+Qtd. Regs.: 0
+0
+T-BUCKET: 633
+Qtd. Regs.: 0
+0
+T-BUCKET: 634
+Qtd. Regs.: 0
+0
+T-BUCKET: 635
+Qtd. Regs.: 0
+0
+T-BUCKET: 636
+Qtd. Regs.: 0
+0
+T-BUCKET: 637
+Qtd. Regs.: 0
+0
+T-BUCKET: 638
+Qtd. Regs.: 0
+0
+T-BUCKET: 639
+Qtd. Regs.: 0
+0
+T-BUCKET: 640
+Qtd. Regs.: 0
+0
+T-BUCKET: 641
+Qtd. Regs.: 0
+0
+T-BUCKET: 642
+Qtd. Regs.: 0
+0
+T-BUCKET: 643
+Qtd. Regs.: 0
+0
+T-BUCKET: 644
+Qtd. Regs.: 0
+0
+T-BUCKET: 645
+Qtd. Regs.: 0
+0
+T-BUCKET: 646
+Qtd. Regs.: 0
+0
+T-BUCKET: 647
+Qtd. Regs.: 0
+0
+T-BUCKET: 648
+Qtd. Regs.: 0
+0
+T-BUCKET: 649
+Qtd. Regs.: 0
+0
+T-BUCKET: 650
+Qtd. Regs.: 0
+0
+T-BUCKET: 651
+Qtd. Regs.: 0
+0
+T-BUCKET: 652
+Qtd. Regs.: 0
+0
+T-BUCKET: 653
+Qtd. Regs.: 0
+0
+T-BUCKET: 654
+Qtd. Regs.: 0
+0
+T-BUCKET: 655
+Qtd. Regs.: 0
+0
+T-BUCKET: 656
+Qtd. Regs.: 0
+0
+T-BUCKET: 657
+Qtd. Regs.: 0
+0
+T-BUCKET: 658
+Qtd. Regs.: 0
+0
+T-BUCKET: 659
+Qtd. Regs.: 0
+0
+T-BUCKET: 660
+Qtd. Regs.: 0
+0
+T-BUCKET: 661
+Qtd. Regs.: 0
+0
+T-BUCKET: 662
+Qtd. Regs.: 0
+0
+T-BUCKET: 663
+Qtd. Regs.: 0
+0
+T-BUCKET: 664
+Qtd. Regs.: 0
+0
+T-BUCKET: 665
+Qtd. Regs.: 0
+0
+T-BUCKET: 666
+Qtd. Regs.: 0
+0
+T-BUCKET: 667
+Qtd. Regs.: 0
+0
+T-BUCKET: 668
+Qtd. Regs.: 0
+0
+T-BUCKET: 669
+Qtd. Regs.: 0
+0
+T-BUCKET: 670
+Qtd. Regs.: 0
+0
+T-BUCKET: 671
+Qtd. Regs.: 0
+0
+T-BUCKET: 672
+Qtd. Regs.: 0
+0
+T-BUCKET: 673
+Qtd. Regs.: 0
+0
+T-BUCKET: 674
+Qtd. Regs.: 0
+0
+T-BUCKET: 675
+Qtd. Regs.: 0
+0
+T-BUCKET: 676
+Qtd. Regs.: 0
+0
+T-BUCKET: 677
+Qtd. Regs.: 0
+0
+T-BUCKET: 678
+Qtd. Regs.: 0
+0
+T-BUCKET: 679
+Qtd. Regs.: 0
+0
+T-BUCKET: 680
+Qtd. Regs.: 0
+0
+T-BUCKET: 681
+Qtd. Regs.: 0
+0
+T-BUCKET: 682
+Qtd. Regs.: 0
+0
+T-BUCKET: 683
+Qtd. Regs.: 0
+0
+T-BUCKET: 684
+Qtd. Regs.: 0
+0
+T-BUCKET: 685
+Qtd. Regs.: 0
+0
+T-BUCKET: 686
+Qtd. Regs.: 0
+0
+T-BUCKET: 687
+Qtd. Regs.: 0
+0
+T-BUCKET: 688
+Qtd. Regs.: 0
+0
+T-BUCKET: 689
+Qtd. Regs.: 0
+0
+T-BUCKET: 690
+Qtd. Regs.: 0
+0
+T-BUCKET: 691
+Qtd. Regs.: 0
+0
+T-BUCKET: 692
+Qtd. Regs.: 0
+0
+T-BUCKET: 693
+Qtd. Regs.: 0
+0
+T-BUCKET: 694
+Qtd. Regs.: 0
+0
+T-BUCKET: 695
+Qtd. Regs.: 0
+0
+T-BUCKET: 696
+Qtd. Regs.: 0
+0
+T-BUCKET: 697
+Qtd. Regs.: 0
+0
+T-BUCKET: 698
+Qtd. Regs.: 0
+0
+T-BUCKET: 699
+Qtd. Regs.: 0
+0
+T-BUCKET: 700
+Qtd. Regs.: 0
+0
+T-BUCKET: 701
+Qtd. Regs.: 0
+0
+T-BUCKET: 702
+Qtd. Regs.: 0
+0
+T-BUCKET: 703
+Qtd. Regs.: 0
+0
+T-BUCKET: 704
+Qtd. Regs.: 0
+0
+T-BUCKET: 705
+Qtd. Regs.: 0
+0
+T-BUCKET: 706
+Qtd. Regs.: 0
+0
+T-BUCKET: 707
+Qtd. Regs.: 0
+0
+T-BUCKET: 708
+Qtd. Regs.: 0
+0
+T-BUCKET: 709
+Qtd. Regs.: 0
+0
+T-BUCKET: 710
+Qtd. Regs.: 0
+0
+T-BUCKET: 711
+Qtd. Regs.: 0
+0
+T-BUCKET: 712
+Qtd. Regs.: 0
+0
+T-BUCKET: 713
+Qtd. Regs.: 0
+0
+T-BUCKET: 714
+Qtd. Regs.: 0
+0
+T-BUCKET: 715
+Qtd. Regs.: 0
+0
+T-BUCKET: 716
+Qtd. Regs.: 0
+0
+T-BUCKET: 717
+Qtd. Regs.: 0
+0
+T-BUCKET: 718
+Qtd. Regs.: 0
+0
+T-BUCKET: 719
+Qtd. Regs.: 0
+0
+T-BUCKET: 720
+Qtd. Regs.: 0
+0
+T-BUCKET: 721
+Qtd. Regs.: 0
+0
+T-BUCKET: 722
+Qtd. Regs.: 0
+0
+T-BUCKET: 723
+Qtd. Regs.: 0
+0
+T-BUCKET: 724
+Qtd. Regs.: 0
+0
+T-BUCKET: 725
+Qtd. Regs.: 0
+0
+T-BUCKET: 726
+Qtd. Regs.: 0
+0
+T-BUCKET: 727
+Qtd. Regs.: 0
+0
+T-BUCKET: 728
+Qtd. Regs.: 0
+0
+T-BUCKET: 729
+Qtd. Regs.: 0
+0
+T-BUCKET: 730
+Qtd. Regs.: 0
+0
+T-BUCKET: 731
+Qtd. Regs.: 0
+0
+T-BUCKET: 732
+Qtd. Regs.: 0
+0
+T-BUCKET: 733
+Qtd. Regs.: 0
+0
+T-BUCKET: 734
+Qtd. Regs.: 0
+0
+T-BUCKET: 735
+Qtd. Regs.: 0
+0
+T-BUCKET: 736
+Qtd. Regs.: 0
+0
+T-BUCKET: 737
+Qtd. Regs.: 0
+0
+T-BUCKET: 738
+Qtd. Regs.: 0
+0
+T-BUCKET: 739
+Qtd. Regs.: 0
+0
+T-BUCKET: 740
+Qtd. Regs.: 0
+0
+T-BUCKET: 741
+Qtd. Regs.: 0
+0
+T-BUCKET: 742
+Qtd. Regs.: 0
+0
+T-BUCKET: 743
+Qtd. Regs.: 0
+0
+T-BUCKET: 744
+Qtd. Regs.: 0
+0
+T-BUCKET: 745
+Qtd. Regs.: 0
+0
+T-BUCKET: 746
+Qtd. Regs.: 0
+0
+T-BUCKET: 747
+Qtd. Regs.: 0
+0
+T-BUCKET: 748
+Qtd. Regs.: 0
+0
+T-BUCKET: 749
+Qtd. Regs.: 0
+0
+T-BUCKET: 750
+Qtd. Regs.: 0
+0
+T-BUCKET: 751
+Qtd. Regs.: 0
+0
+T-BUCKET: 752
+Qtd. Regs.: 0
+0
+T-BUCKET: 753
+Qtd. Regs.: 0
+0
+T-BUCKET: 754
+Qtd. Regs.: 0
+0
+T-BUCKET: 755
+Qtd. Regs.: 0
+0
+T-BUCKET: 756
+Qtd. Regs.: 0
+0
+T-BUCKET: 757
+Qtd. Regs.: 0
+0
+T-BUCKET: 758
+Qtd. Regs.: 0
+0
+T-BUCKET: 759
+Qtd. Regs.: 0
+0
+T-BUCKET: 760
+Qtd. Regs.: 0
+0
+T-BUCKET: 761
+Qtd. Regs.: 0
+0
+T-BUCKET: 762
+Qtd. Regs.: 0
+0
+T-BUCKET: 763
+Qtd. Regs.: 0
+0
+T-BUCKET: 764
+Qtd. Regs.: 0
+0
+T-BUCKET: 765
+Qtd. Regs.: 0
+0
+T-BUCKET: 766
+Qtd. Regs.: 0
+0
+T-BUCKET: 767
+Qtd. Regs.: 0
+0
+T-BUCKET: 768
+Qtd. Regs.: 0
+0
+T-BUCKET: 769
+Qtd. Regs.: 0
+0
+T-BUCKET: 770
+Qtd. Regs.: 0
+0
+T-BUCKET: 771
+Qtd. Regs.: 0
+0
+T-BUCKET: 772
+Qtd. Regs.: 0
+0
+T-BUCKET: 773
+Qtd. Regs.: 0
+0
+T-BUCKET: 774
+Qtd. Regs.: 0
+0
+T-BUCKET: 775
+Qtd. Regs.: 0
+0
+T-BUCKET: 776
+Qtd. Regs.: 0
+0
+T-BUCKET: 777
+Qtd. Regs.: 0
+0
+T-BUCKET: 778
+Qtd. Regs.: 0
+0
+T-BUCKET: 779
+Qtd. Regs.: 0
+0
+T-BUCKET: 780
+Qtd. Regs.: 0
+0
+T-BUCKET: 781
+Qtd. Regs.: 0
+0
+T-BUCKET: 782
+Qtd. Regs.: 0
+0
+T-BUCKET: 783
+Qtd. Regs.: 0
+0
+T-BUCKET: 784
+Qtd. Regs.: 0
+0
+T-BUCKET: 785
+Qtd. Regs.: 0
+0
+T-BUCKET: 786
+Qtd. Regs.: 0
+0
+T-BUCKET: 787
+Qtd. Regs.: 0
+0
+T-BUCKET: 788
+Qtd. Regs.: 0
+0
+T-BUCKET: 789
+Qtd. Regs.: 0
+0
+T-BUCKET: 790
+Qtd. Regs.: 0
+0
+T-BUCKET: 791
+Qtd. Regs.: 0
+0
+T-BUCKET: 792
+Qtd. Regs.: 0
+0
+T-BUCKET: 793
+Qtd. Regs.: 0
+0
+T-BUCKET: 794
+Qtd. Regs.: 0
+0
+T-BUCKET: 795
+Qtd. Regs.: 0
+0
+T-BUCKET: 796
+Qtd. Regs.: 0
+0
+T-BUCKET: 797
+Qtd. Regs.: 0
+0
+T-BUCKET: 798
+Qtd. Regs.: 0
+0
+T-BUCKET: 799
+Qtd. Regs.: 0
+0
+T-BUCKET: 800
+Qtd. Regs.: 0
+0
+T-BUCKET: 801
+Qtd. Regs.: 0
+0
+T-BUCKET: 802
+Qtd. Regs.: 0
+0
+T-BUCKET: 803
+Qtd. Regs.: 0
+0
+T-BUCKET: 804
+Qtd. Regs.: 0
+0
+T-BUCKET: 805
+Qtd. Regs.: 0
+0
+T-BUCKET: 806
+Qtd. Regs.: 0
+0
+T-BUCKET: 807
+Qtd. Regs.: 0
+0
+T-BUCKET: 808
+Qtd. Regs.: 0
+0
+T-BUCKET: 809
+Qtd. Regs.: 0
+0
+T-BUCKET: 810
+Qtd. Regs.: 0
+0
+T-BUCKET: 811
+Qtd. Regs.: 0
+0
+T-BUCKET: 812
+Qtd. Regs.: 0
+0
+T-BUCKET: 813
+Qtd. Regs.: 0
+0
+T-BUCKET: 814
+Qtd. Regs.: 0
+0
+T-BUCKET: 815
+Qtd. Regs.: 0
+0
+T-BUCKET: 816
+Qtd. Regs.: 0
+0
+T-BUCKET: 817
+Qtd. Regs.: 0
+0
+T-BUCKET: 818
+Qtd. Regs.: 0
+0
+T-BUCKET: 819
+Qtd. Regs.: 0
+0
+T-BUCKET: 820
+Qtd. Regs.: 0
+0
+T-BUCKET: 821
+Qtd. Regs.: 0
+0
+T-BUCKET: 822
+Qtd. Regs.: 0
+0
+T-BUCKET: 823
+Qtd. Regs.: 0
+0
+T-BUCKET: 824
+Qtd. Regs.: 0
+0
+T-BUCKET: 825
+Qtd. Regs.: 0
+0
+T-BUCKET: 826
+Qtd. Regs.: 0
+0
+T-BUCKET: 827
+Qtd. Regs.: 0
+0
+T-BUCKET: 828
+Qtd. Regs.: 0
+0
+T-BUCKET: 829
+Qtd. Regs.: 0
+0
+T-BUCKET: 830
+Qtd. Regs.: 0
+0
+T-BUCKET: 831
+Qtd. Regs.: 0
+0
+T-BUCKET: 832
+Qtd. Regs.: 0
+0
+T-BUCKET: 833
+Qtd. Regs.: 0
+0
+T-BUCKET: 834
+Qtd. Regs.: 0
+0
+T-BUCKET: 835
+Qtd. Regs.: 0
+0
+T-BUCKET: 836
+Qtd. Regs.: 0
+0
+T-BUCKET: 837
+Qtd. Regs.: 0
+0
+T-BUCKET: 838
+Qtd. Regs.: 0
+0
+T-BUCKET: 839
+Qtd. Regs.: 0
+0
+T-BUCKET: 840
+Qtd. Regs.: 0
+0
+T-BUCKET: 841
+Qtd. Regs.: 0
+0
+T-BUCKET: 842
+Qtd. Regs.: 0
+0
+T-BUCKET: 843
+Qtd. Regs.: 0
+0
+T-BUCKET: 844
+Qtd. Regs.: 0
+0
+T-BUCKET: 845
+Qtd. Regs.: 0
+0
+T-BUCKET: 846
+Qtd. Regs.: 0
+0
+T-BUCKET: 847
+Qtd. Regs.: 0
+0
+T-BUCKET: 848
+Qtd. Regs.: 0
+0
+T-BUCKET: 849
+Qtd. Regs.: 0
+0
+T-BUCKET: 850
+Qtd. Regs.: 0
+0
+T-BUCKET: 851
+Qtd. Regs.: 0
+0
+T-BUCKET: 852
+Qtd. Regs.: 0
+0
+T-BUCKET: 853
+Qtd. Regs.: 0
+0
+T-BUCKET: 854
+Qtd. Regs.: 0
+0
+T-BUCKET: 855
+Qtd. Regs.: 0
+0
+T-BUCKET: 856
+Qtd. Regs.: 0
+0
+T-BUCKET: 857
+Qtd. Regs.: 0
+0
+T-BUCKET: 858
+Qtd. Regs.: 0
+0
+T-BUCKET: 859
+Qtd. Regs.: 0
+0
+T-BUCKET: 860
+Qtd. Regs.: 0
+0
+T-BUCKET: 861
+Qtd. Regs.: 0
+0
+T-BUCKET: 862
+Qtd. Regs.: 0
+0
+T-BUCKET: 863
+Qtd. Regs.: 0
+0
+T-BUCKET: 864
+Qtd. Regs.: 0
+0
+T-BUCKET: 865
+Qtd. Regs.: 0
+0
+T-BUCKET: 866
+Qtd. Regs.: 0
+0
+T-BUCKET: 867
+Qtd. Regs.: 0
+0
+T-BUCKET: 868
+Qtd. Regs.: 0
+0
+T-BUCKET: 869
+Qtd. Regs.: 0
+0
+T-BUCKET: 870
+Qtd. Regs.: 0
+0
+T-BUCKET: 871
+Qtd. Regs.: 0
+0
+T-BUCKET: 872
+Qtd. Regs.: 0
+0
+T-BUCKET: 873
+Qtd. Regs.: 0
+0
+T-BUCKET: 874
+Qtd. Regs.: 0
+0
+T-BUCKET: 875
+Qtd. Regs.: 0
+0
+T-BUCKET: 876
+Qtd. Regs.: 0
+0
+T-BUCKET: 877
+Qtd. Regs.: 0
+0
+T-BUCKET: 878
+Qtd. Regs.: 0
+0
+T-BUCKET: 879
+Qtd. Regs.: 0
+0
+T-BUCKET: 880
+Qtd. Regs.: 0
+0
+T-BUCKET: 881
+Qtd. Regs.: 0
+0
+T-BUCKET: 882
+Qtd. Regs.: 0
+0
+T-BUCKET: 883
+Qtd. Regs.: 0
+0
+T-BUCKET: 884
+Qtd. Regs.: 0
+0
+T-BUCKET: 885
+Qtd. Regs.: 0
+0
+T-BUCKET: 886
+Qtd. Regs.: 0
+0
+T-BUCKET: 887
+Qtd. Regs.: 0
+0
+T-BUCKET: 888
+Qtd. Regs.: 0
+0
+T-BUCKET: 889
+Qtd. Regs.: 0
+0
+T-BUCKET: 890
+Qtd. Regs.: 0
+0
+T-BUCKET: 891
+Qtd. Regs.: 0
+0
+T-BUCKET: 892
+Qtd. Regs.: 0
+0
+T-BUCKET: 893
+Qtd. Regs.: 0
+0
+T-BUCKET: 894
+Qtd. Regs.: 0
+0
+T-BUCKET: 895
+Qtd. Regs.: 0
+0
+T-BUCKET: 896
+Qtd. Regs.: 0
+0
+T-BUCKET: 897
+Qtd. Regs.: 0
+0
+T-BUCKET: 898
+Qtd. Regs.: 0
+0
+T-BUCKET: 899
+Qtd. Regs.: 0
+0
+T-BUCKET: 900
+Qtd. Regs.: 0
+0
+T-BUCKET: 901
+Qtd. Regs.: 0
+0
+T-BUCKET: 902
+Qtd. Regs.: 0
+0
+T-BUCKET: 903
+Qtd. Regs.: 0
+0
+T-BUCKET: 904
+Qtd. Regs.: 0
+0
+T-BUCKET: 905
+Qtd. Regs.: 0
+0
+T-BUCKET: 906
+Qtd. Regs.: 0
+0
+T-BUCKET: 907
+Qtd. Regs.: 0
+0
+T-BUCKET: 908
+Qtd. Regs.: 0
+0
+T-BUCKET: 909
+Qtd. Regs.: 0
+0
+T-BUCKET: 910
+Qtd. Regs.: 0
+0
+T-BUCKET: 911
+Qtd. Regs.: 0
+0
+T-BUCKET: 912
+Qtd. Regs.: 0
+0
+T-BUCKET: 913
+Qtd. Regs.: 0
+0
+T-BUCKET: 914
+Qtd. Regs.: 0
+0
+T-BUCKET: 915
+Qtd. Regs.: 0
+0
+T-BUCKET: 916
+Qtd. Regs.: 0
+0
+T-BUCKET: 917
+Qtd. Regs.: 0
+0
+T-BUCKET: 918
+Qtd. Regs.: 0
+0
+T-BUCKET: 919
+Qtd. Regs.: 0
+0
+T-BUCKET: 920
+Qtd. Regs.: 0
+0
+T-BUCKET: 921
+Qtd. Regs.: 0
+0
+T-BUCKET: 922
+Qtd. Regs.: 0
+0
+T-BUCKET: 923
+Qtd. Regs.: 0
+0
+T-BUCKET: 924
+Qtd. Regs.: 0
+0
+T-BUCKET: 925
+Qtd. Regs.: 0
+0
+T-BUCKET: 926
+Qtd. Regs.: 0
+0
+T-BUCKET: 927
+Qtd. Regs.: 0
+0
+T-BUCKET: 928
+Qtd. Regs.: 0
+0
+T-BUCKET: 929
+Qtd. Regs.: 0
+0
+T-BUCKET: 930
+Qtd. Regs.: 0
+0
+T-BUCKET: 931
+Qtd. Regs.: 0
+0
+T-BUCKET: 932
+Qtd. Regs.: 0
+0
+T-BUCKET: 933
+Qtd. Regs.: 0
+0
+T-BUCKET: 934
+Qtd. Regs.: 0
+0
+T-BUCKET: 935
+Qtd. Regs.: 0
+0
+T-BUCKET: 936
+Qtd. Regs.: 0
+0
+T-BUCKET: 937
+Qtd. Regs.: 0
+0
+T-BUCKET: 938
+Qtd. Regs.: 0
+0
+T-BUCKET: 939
+Qtd. Regs.: 0
+0
+T-BUCKET: 940
+Qtd. Regs.: 0
+0
+T-BUCKET: 941
+Qtd. Regs.: 0
+0
+T-BUCKET: 942
+Qtd. Regs.: 0
+0
+T-BUCKET: 943
+Qtd. Regs.: 0
+0
+T-BUCKET: 944
+Qtd. Regs.: 0
+0
+T-BUCKET: 945
+Qtd. Regs.: 0
+0
+T-BUCKET: 946
+Qtd. Regs.: 0
+0
+T-BUCKET: 947
+Qtd. Regs.: 0
+0
+T-BUCKET: 948
+Qtd. Regs.: 0
+0
+T-BUCKET: 949
+Qtd. Regs.: 0
+0
+T-BUCKET: 950
+Qtd. Regs.: 0
+0
+T-BUCKET: 951
+Qtd. Regs.: 0
+0
+T-BUCKET: 952
+Qtd. Regs.: 0
+0
+T-BUCKET: 953
+Qtd. Regs.: 0
+0
+T-BUCKET: 954
+Qtd. Regs.: 0
+0
+T-BUCKET: 955
+Qtd. Regs.: 0
+0
+T-BUCKET: 956
+Qtd. Regs.: 0
+0
+T-BUCKET: 957
+Qtd. Regs.: 0
+0
+T-BUCKET: 958
+Qtd. Regs.: 0
+0
+T-BUCKET: 959
+Qtd. Regs.: 0
+0
+T-BUCKET: 960
+Qtd. Regs.: 0
+0
+T-BUCKET: 961
+Qtd. Regs.: 0
+0
+T-BUCKET: 962
+Qtd. Regs.: 0
+0
+T-BUCKET: 963
+Qtd. Regs.: 0
+0
+T-BUCKET: 964
+Qtd. Regs.: 0
+0
+T-BUCKET: 965
+Qtd. Regs.: 0
+0
+T-BUCKET: 966
+Qtd. Regs.: 0
+0
+T-BUCKET: 967
+Qtd. Regs.: 0
+0
+T-BUCKET: 968
+Qtd. Regs.: 0
+0
+T-BUCKET: 969
+Qtd. Regs.: 0
+0
+T-BUCKET: 970
+Qtd. Regs.: 0
+0
+T-BUCKET: 971
+Qtd. Regs.: 0
+0
+T-BUCKET: 972
+Qtd. Regs.: 0
+0
+T-BUCKET: 973
+Qtd. Regs.: 0
+0
+T-BUCKET: 974
+Qtd. Regs.: 0
+0
+T-BUCKET: 975
+Qtd. Regs.: 0
+0
+T-BUCKET: 976
+Qtd. Regs.: 0
+0
+T-BUCKET: 977
+Qtd. Regs.: 0
+0
+T-BUCKET: 978
+Qtd. Regs.: 0
+0
+T-BUCKET: 979
+Qtd. Regs.: 0
+0
+T-BUCKET: 980
+Qtd. Regs.: 0
+0
+T-BUCKET: 981
+Qtd. Regs.: 0
+0
+T-BUCKET: 982
+Qtd. Regs.: 0
+0
+T-BUCKET: 983
+Qtd. Regs.: 0
+0
+T-BUCKET: 984
+Qtd. Regs.: 0
+0
+T-BUCKET: 985
+Qtd. Regs.: 0
+0
+T-BUCKET: 986
+Qtd. Regs.: 0
+0
+T-BUCKET: 987
+Qtd. Regs.: 0
+0
+T-BUCKET: 988
+Qtd. Regs.: 0
+0
+T-BUCKET: 989
+Qtd. Regs.: 0
+0
+T-BUCKET: 990
+Qtd. Regs.: 0
+0
+T-BUCKET: 991
+Qtd. Regs.: 0
+0
+T-BUCKET: 992
+Qtd. Regs.: 0
+0
+T-BUCKET: 993
+Qtd. Regs.: 0
+0
+T-BUCKET: 994
+Qtd. Regs.: 0
+0
+T-BUCKET: 995
+Qtd. Regs.: 0
+0
+T-BUCKET: 996
+Qtd. Regs.: 0
+0
+T-BUCKET: 997
+Qtd. Regs.: 0
+0
+T-BUCKET: 998
+Qtd. Regs.: 0
+0
+T-BUCKET: 999
+Qtd. Regs.: 0
+0
+T-BUCKET: 1000
+Qtd. Regs.: 0
+0
+T-BUCKET: 1001
+Qtd. Regs.: 0
+0
+T-BUCKET: 1002
+Qtd. Regs.: 0
+0
+T-BUCKET: 1003
+Qtd. Regs.: 0
+0
+T-BUCKET: 1004
+Qtd. Regs.: 0
+0
+T-BUCKET: 1005
+Qtd. Regs.: 0
+0
+T-BUCKET: 1006
+Qtd. Regs.: 0
+0
+T-BUCKET: 1007
+Qtd. Regs.: 0
+0
+T-BUCKET: 1008
+Qtd. Regs.: 0
+0
+T-BUCKET: 1009
+Qtd. Regs.: 0
+0
+T-BUCKET: 1010
+Qtd. Regs.: 0
+0
+T-BUCKET: 1011
+Qtd. Regs.: 0
+0
+T-BUCKET: 1012
+Qtd. Regs.: 0
+0
+T-BUCKET: 1013
+Qtd. Regs.: 0
+0
+T-BUCKET: 1014
+Qtd. Regs.: 0
+0
+T-BUCKET: 1015
+Qtd. Regs.: 0
+0
+T-BUCKET: 1016
+Qtd. Regs.: 0
+0
+T-BUCKET: 1017
+Qtd. Regs.: 0
+0
+T-BUCKET: 1018
+Qtd. Regs.: 0
+0
+T-BUCKET: 1019
+Qtd. Regs.: 0
+0
+T-BUCKET: 1020
+Qtd. Regs.: 0
+0
+T-BUCKET: 1021
+Qtd. Regs.: 0
+0
+T-BUCKET: 1022
+Qtd. Regs.: 0
+0
+T-BUCKET: 1023
+Qtd. Regs.: 0
+0
+T-BUCKET: 1024
+Qtd. Regs.: 0
+0
+T-BUCKET: 1025
+Qtd. Regs.: 0
+0
+T-BUCKET: 1026
+Qtd. Regs.: 0
+0
+T-BUCKET: 1027
+Qtd. Regs.: 0
+0
+T-BUCKET: 1028
+Qtd. Regs.: 0
+0
+T-BUCKET: 1029
+Qtd. Regs.: 0
+0
+T-BUCKET: 1030
+Qtd. Regs.: 0
+0
+T-BUCKET: 1031
+Qtd. Regs.: 0
+0
+T-BUCKET: 1032
+Qtd. Regs.: 0
+0
+T-BUCKET: 1033
+Qtd. Regs.: 0
+0
+T-BUCKET: 1034
+Qtd. Regs.: 0
+0
+T-BUCKET: 1035
+Qtd. Regs.: 0
+0
+T-BUCKET: 1036
+Qtd. Regs.: 0
+0
+T-BUCKET: 1037
+Qtd. Regs.: 0
+0
+T-BUCKET: 1038
+Qtd. Regs.: 0
+0
+T-BUCKET: 1039
+Qtd. Regs.: 0
+0
+T-BUCKET: 1040
+Qtd. Regs.: 0
+0
+T-BUCKET: 1041
+Qtd. Regs.: 0
+0
+T-BUCKET: 1042
+Qtd. Regs.: 0
+0
+T-BUCKET: 1043
+Qtd. Regs.: 0
+0
+T-BUCKET: 1044
+Qtd. Regs.: 0
+0
+T-BUCKET: 1045
+Qtd. Regs.: 0
+0
+T-BUCKET: 1046
+Qtd. Regs.: 0
+0
+T-BUCKET: 1047
+Qtd. Regs.: 0
+0
+T-BUCKET: 1048
+Qtd. Regs.: 0
+0
+T-BUCKET: 1049
+Qtd. Regs.: 0
+0
+T-BUCKET: 1050
+Qtd. Regs.: 0
+0
+T-BUCKET: 1051
+Qtd. Regs.: 0
+0
+T-BUCKET: 1052
+Qtd. Regs.: 0
+0
+T-BUCKET: 1053
+Qtd. Regs.: 0
+0
+T-BUCKET: 1054
+Qtd. Regs.: 0
+0
+T-BUCKET: 1055
+Qtd. Regs.: 0
+0
+T-BUCKET: 1056
+Qtd. Regs.: 0
+0
+T-BUCKET: 1057
+Qtd. Regs.: 0
+0
+T-BUCKET: 1058
+Qtd. Regs.: 0
+0
+T-BUCKET: 1059
+Qtd. Regs.: 0
+0
+T-BUCKET: 1060
+Qtd. Regs.: 0
+0
+T-BUCKET: 1061
+Qtd. Regs.: 0
+0
+T-BUCKET: 1062
+Qtd. Regs.: 0
+0
+T-BUCKET: 1063
+Qtd. Regs.: 0
+0
+T-BUCKET: 1064
+Qtd. Regs.: 0
+0
+T-BUCKET: 1065
+Qtd. Regs.: 0
+0
+T-BUCKET: 1066
+Qtd. Regs.: 0
+0
+T-BUCKET: 1067
+Qtd. Regs.: 0
+0
+T-BUCKET: 1068
+Qtd. Regs.: 0
+0
+T-BUCKET: 1069
+Qtd. Regs.: 0
+0
+T-BUCKET: 1070
+Qtd. Regs.: 0
+0
+T-BUCKET: 1071
+Qtd. Regs.: 0
+0
+T-BUCKET: 1072
+Qtd. Regs.: 0
+0
+T-BUCKET: 1073
+Qtd. Regs.: 0
+0
+T-BUCKET: 1074
+Qtd. Regs.: 0
+0
+T-BUCKET: 1075
+Qtd. Regs.: 0
+0
+T-BUCKET: 1076
+Qtd. Regs.: 0
+0
+T-BUCKET: 1077
+Qtd. Regs.: 0
+0
+T-BUCKET: 1078
+Qtd. Regs.: 0
+0
+T-BUCKET: 1079
+Qtd. Regs.: 0
+0
+T-BUCKET: 1080
+Qtd. Regs.: 0
+0
+T-BUCKET: 1081
+Qtd. Regs.: 0
+0
+T-BUCKET: 1082
+Qtd. Regs.: 0
+0
+T-BUCKET: 1083
+Qtd. Regs.: 0
+0
+T-BUCKET: 1084
+Qtd. Regs.: 0
+0
+T-BUCKET: 1085
+Qtd. Regs.: 0
+0
+T-BUCKET: 1086
+Qtd. Regs.: 0
+0
+T-BUCKET: 1087
+Qtd. Regs.: 0
+0
+T-BUCKET: 1088
+Qtd. Regs.: 0
+0
+T-BUCKET: 1089
+Qtd. Regs.: 0
+0
+T-BUCKET: 1090
+Qtd. Regs.: 0
+0
+T-BUCKET: 1091
+Qtd. Regs.: 0
+0
+T-BUCKET: 1092
+Qtd. Regs.: 0
+0
+T-BUCKET: 1093
+Qtd. Regs.: 0
+0
+T-BUCKET: 1094
+Qtd. Regs.: 0
+0
+T-BUCKET: 1095
+Qtd. Regs.: 0
+0
+T-BUCKET: 1096
+Qtd. Regs.: 0
+0
+T-BUCKET: 1097
+Qtd. Regs.: 0
+0
+T-BUCKET: 1098
+Qtd. Regs.: 0
+0
+T-BUCKET: 1099
+Qtd. Regs.: 0
+0
+T-BUCKET: 1100
+Qtd. Regs.: 0
+0
+T-BUCKET: 1101
+Qtd. Regs.: 0
+0
+T-BUCKET: 1102
+Qtd. Regs.: 0
+0
+T-BUCKET: 1103
+Qtd. Regs.: 0
+0
+T-BUCKET: 1104
+Qtd. Regs.: 0
+0
+T-BUCKET: 1105
+Qtd. Regs.: 0
+0
+T-BUCKET: 1106
+Qtd. Regs.: 0
+0
+T-BUCKET: 1107
+Qtd. Regs.: 0
+0
+T-BUCKET: 1108
+Qtd. Regs.: 0
+0
+T-BUCKET: 1109
+Qtd. Regs.: 0
+0
+T-BUCKET: 1110
+Qtd. Regs.: 0
+0
+T-BUCKET: 1111
+Qtd. Regs.: 0
+0
+T-BUCKET: 1112
+Qtd. Regs.: 0
+0
+T-BUCKET: 1113
+Qtd. Regs.: 0
+0
+T-BUCKET: 1114
+Qtd. Regs.: 0
+0
+T-BUCKET: 1115
+Qtd. Regs.: 0
+0
+T-BUCKET: 1116
+Qtd. Regs.: 0
+0
+T-BUCKET: 1117
+Qtd. Regs.: 0
+0
+T-BUCKET: 1118
+Qtd. Regs.: 0
+0
+T-BUCKET: 1119
+Qtd. Regs.: 0
+0
+T-BUCKET: 1120
+Qtd. Regs.: 0
+0
+T-BUCKET: 1121
+Qtd. Regs.: 0
+0
+T-BUCKET: 1122
+Qtd. Regs.: 0
+0
+T-BUCKET: 1123
+Qtd. Regs.: 0
+0
+T-BUCKET: 1124
+Qtd. Regs.: 0
+0
+T-BUCKET: 1125
+Qtd. Regs.: 0
+0
+T-BUCKET: 1126
+Qtd. Regs.: 0
+0
+T-BUCKET: 1127
+Qtd. Regs.: 0
+0
+T-BUCKET: 1128
+Qtd. Regs.: 0
+0
+T-BUCKET: 1129
+Qtd. Regs.: 0
+0
+T-BUCKET: 1130
+Qtd. Regs.: 0
+0
+T-BUCKET: 1131
+Qtd. Regs.: 0
+0
+T-BUCKET: 1132
+Qtd. Regs.: 0
+0
+T-BUCKET: 1133
+Qtd. Regs.: 0
+0
+T-BUCKET: 1134
+Qtd. Regs.: 0
+0
+T-BUCKET: 1135
+Qtd. Regs.: 0
+0
+T-BUCKET: 1136
+Qtd. Regs.: 0
+0
+T-BUCKET: 1137
+Qtd. Regs.: 0
+0
+T-BUCKET: 1138
+Qtd. Regs.: 0
+0
+T-BUCKET: 1139
+Qtd. Regs.: 0
+0
+T-BUCKET: 1140
+Qtd. Regs.: 0
+0
+T-BUCKET: 1141
+Qtd. Regs.: 0
+0
+T-BUCKET: 1142
+Qtd. Regs.: 0
+0
+T-BUCKET: 1143
+Qtd. Regs.: 0
+0
+T-BUCKET: 1144
+Qtd. Regs.: 0
+0
+T-BUCKET: 1145
+Qtd. Regs.: 0
+0
+T-BUCKET: 1146
+Qtd. Regs.: 0
+0
+T-BUCKET: 1147
+Qtd. Regs.: 0
+0
+T-BUCKET: 1148
+Qtd. Regs.: 0
+0
+T-BUCKET: 1149
+Qtd. Regs.: 0
+0
+T-BUCKET: 1150
+Qtd. Regs.: 0
+0
+T-BUCKET: 1151
+Qtd. Regs.: 0
+0
+T-BUCKET: 1152
+Qtd. Regs.: 0
+0
+T-BUCKET: 1153
+Qtd. Regs.: 0
+0
+T-BUCKET: 1154
+Qtd. Regs.: 0
+0
+T-BUCKET: 1155
+Qtd. Regs.: 0
+0
+T-BUCKET: 1156
+Qtd. Regs.: 0
+0
+T-BUCKET: 1157
+Qtd. Regs.: 0
+0
+T-BUCKET: 1158
+Qtd. Regs.: 0
+0
+T-BUCKET: 1159
+Qtd. Regs.: 0
+0
+T-BUCKET: 1160
+Qtd. Regs.: 0
+0
+T-BUCKET: 1161
+Qtd. Regs.: 0
+0
+T-BUCKET: 1162
+Qtd. Regs.: 0
+0
+T-BUCKET: 1163
+Qtd. Regs.: 0
+0
+T-BUCKET: 1164
+Qtd. Regs.: 0
+0
+T-BUCKET: 1165
+Qtd. Regs.: 0
+0
+T-BUCKET: 1166
+Qtd. Regs.: 0
+0
+T-BUCKET: 1167
+Qtd. Regs.: 0
+0
+T-BUCKET: 1168
+Qtd. Regs.: 0
+0
+T-BUCKET: 1169
+Qtd. Regs.: 0
+0
+T-BUCKET: 1170
+Qtd. Regs.: 0
+0
+T-BUCKET: 1171
+Qtd. Regs.: 0
+0
+T-BUCKET: 1172
+Qtd. Regs.: 0
+0
+T-BUCKET: 1173
+Qtd. Regs.: 0
+0
+T-BUCKET: 1174
+Qtd. Regs.: 0
+0
+T-BUCKET: 1175
+Qtd. Regs.: 0
+0
+T-BUCKET: 1176
+Qtd. Regs.: 0
+0
+T-BUCKET: 1177
+Qtd. Regs.: 0
+0
+T-BUCKET: 1178
+Qtd. Regs.: 0
+0
+T-BUCKET: 1179
+Qtd. Regs.: 0
+0
+T-BUCKET: 1180
+Qtd. Regs.: 0
+0
+T-BUCKET: 1181
+Qtd. Regs.: 0
+0
+T-BUCKET: 1182
+Qtd. Regs.: 0
+0
+T-BUCKET: 1183
+Qtd. Regs.: 0
+0
+T-BUCKET: 1184
+Qtd. Regs.: 0
+0
+T-BUCKET: 1185
+Qtd. Regs.: 0
+0
+T-BUCKET: 1186
+Qtd. Regs.: 0
+0
+T-BUCKET: 1187
+Qtd. Regs.: 0
+0
+T-BUCKET: 1188
+Qtd. Regs.: 0
+0
+T-BUCKET: 1189
+Qtd. Regs.: 0
+0
+T-BUCKET: 1190
+Qtd. Regs.: 0
+0
+T-BUCKET: 1191
+Qtd. Regs.: 0
+0
+T-BUCKET: 1192
+Qtd. Regs.: 0
+0
+T-BUCKET: 1193
+Qtd. Regs.: 0
+0
+T-BUCKET: 1194
+Qtd. Regs.: 0
+0
+T-BUCKET: 1195
+Qtd. Regs.: 0
+0
+T-BUCKET: 1196
+Qtd. Regs.: 0
+0
+T-BUCKET: 1197
+Qtd. Regs.: 0
+0
+T-BUCKET: 1198
+Qtd. Regs.: 0
+0
+T-BUCKET: 1199
+Qtd. Regs.: 0
+0
+T-BUCKET: 1200
+Qtd. Regs.: 0
+0
+T-BUCKET: 1201
+Qtd. Regs.: 0
+0
+T-BUCKET: 1202
+Qtd. Regs.: 0
+0
+T-BUCKET: 1203
+Qtd. Regs.: 0
+0
+T-BUCKET: 1204
+Qtd. Regs.: 0
+0
+T-BUCKET: 1205
+Qtd. Regs.: 0
+0
+T-BUCKET: 1206
+Qtd. Regs.: 0
+0
+T-BUCKET: 1207
+Qtd. Regs.: 0
+0
+T-BUCKET: 1208
+Qtd. Regs.: 0
+0
+T-BUCKET: 1209
+Qtd. Regs.: 0
+0
+T-BUCKET: 1210
+Qtd. Regs.: 0
+0
+T-BUCKET: 1211
+Qtd. Regs.: 0
+0
+T-BUCKET: 1212
+Qtd. Regs.: 0
+0
+T-BUCKET: 1213
+Qtd. Regs.: 0
+0
+T-BUCKET: 1214
+Qtd. Regs.: 0
+0
+T-BUCKET: 1215
+Qtd. Regs.: 0
+0
+T-BUCKET: 1216
+Qtd. Regs.: 0
+0
+T-BUCKET: 1217
+Qtd. Regs.: 0
+0
+T-BUCKET: 1218
+Qtd. Regs.: 0
+0
+T-BUCKET: 1219
+Qtd. Regs.: 0
+0
+T-BUCKET: 1220
+Qtd. Regs.: 0
+0
+T-BUCKET: 1221
+Qtd. Regs.: 0
+0
+T-BUCKET: 1222
+Qtd. Regs.: 0
+0
+T-BUCKET: 1223
+Qtd. Regs.: 0
+0
+T-BUCKET: 1224
+Qtd. Regs.: 0
+0
+T-BUCKET: 1225
+Qtd. Regs.: 0
+0
+T-BUCKET: 1226
+Qtd. Regs.: 0
+0
+T-BUCKET: 1227
+Qtd. Regs.: 0
+0
+T-BUCKET: 1228
+Qtd. Regs.: 0
+0
+T-BUCKET: 1229
+Qtd. Regs.: 0
+0
+T-BUCKET: 1230
+Qtd. Regs.: 0
+0
+T-BUCKET: 1231
+Qtd. Regs.: 0
+0
+T-BUCKET: 1232
+Qtd. Regs.: 0
+0
+T-BUCKET: 1233
+Qtd. Regs.: 0
+0
+T-BUCKET: 1234
+Qtd. Regs.: 0
+0
+T-BUCKET: 1235
+Qtd. Regs.: 0
+0
+T-BUCKET: 1236
+Qtd. Regs.: 0
+0
+T-BUCKET: 1237
+Qtd. Regs.: 0
+0
+T-BUCKET: 1238
+Qtd. Regs.: 0
+0
+T-BUCKET: 1239
+Qtd. Regs.: 0
+0
+T-BUCKET: 1240
+Qtd. Regs.: 0
+0
+T-BUCKET: 1241
+Qtd. Regs.: 0
+0
+T-BUCKET: 1242
+Qtd. Regs.: 0
+0
+T-BUCKET: 1243
+Qtd. Regs.: 0
+0
+T-BUCKET: 1244
+Qtd. Regs.: 0
+0
+T-BUCKET: 1245
+Qtd. Regs.: 0
+0
+T-BUCKET: 1246
+Qtd. Regs.: 0
+0
+T-BUCKET: 1247
+Qtd. Regs.: 0
+0
+T-BUCKET: 1248
+Qtd. Regs.: 0
+0
+T-BUCKET: 1249
+Qtd. Regs.: 0
+0
+T-BUCKET: 1250
+Qtd. Regs.: 0
+0
+T-BUCKET: 1251
+Qtd. Regs.: 0
+0
+T-BUCKET: 1252
+Qtd. Regs.: 0
+0
+T-BUCKET: 1253
+Qtd. Regs.: 0
+0
+T-BUCKET: 1254
+Qtd. Regs.: 0
+0
+T-BUCKET: 1255
+Qtd. Regs.: 0
+0
+T-BUCKET: 1256
+Qtd. Regs.: 0
+0
+T-BUCKET: 1257
+Qtd. Regs.: 0
+0
+T-BUCKET: 1258
+Qtd. Regs.: 0
+0
+T-BUCKET: 1259
+Qtd. Regs.: 0
+0
+T-BUCKET: 1260
+Qtd. Regs.: 0
+0
+T-BUCKET: 1261
+Qtd. Regs.: 0
+0
+T-BUCKET: 1262
+Qtd. Regs.: 0
+0
+T-BUCKET: 1263
+Qtd. Regs.: 0
+0
+T-BUCKET: 1264
+Qtd. Regs.: 0
+0
+T-BUCKET: 1265
+Qtd. Regs.: 0
+0
+T-BUCKET: 1266
+Qtd. Regs.: 0
+0
+T-BUCKET: 1267
+Qtd. Regs.: 0
+0
+T-BUCKET: 1268
+Qtd. Regs.: 0
+0
+T-BUCKET: 1269
+Qtd. Regs.: 0
+0
+T-BUCKET: 1270
+Qtd. Regs.: 0
+0
+T-BUCKET: 1271
+Qtd. Regs.: 0
+0
+T-BUCKET: 1272
+Qtd. Regs.: 0
+0
+T-BUCKET: 1273
+Qtd. Regs.: 0
+0
+T-BUCKET: 1274
+Qtd. Regs.: 0
+0
+T-BUCKET: 1275
+Qtd. Regs.: 0
+0
+T-BUCKET: 1276
+Qtd. Regs.: 0
+0
+T-BUCKET: 1277
+Qtd. Regs.: 0
+0
+T-BUCKET: 1278
+Qtd. Regs.: 0
+0
+T-BUCKET: 1279
+Qtd. Regs.: 0
+0
+T-BUCKET: 1280
+Qtd. Regs.: 0
+0
+T-BUCKET: 1281
+Qtd. Regs.: 0
+0
+T-BUCKET: 1282
+Qtd. Regs.: 0
+0
+T-BUCKET: 1283
+Qtd. Regs.: 0
+0
+T-BUCKET: 1284
+Qtd. Regs.: 0
+0
+T-BUCKET: 1285
+Qtd. Regs.: 0
+0
+T-BUCKET: 1286
+Qtd. Regs.: 0
+0
+T-BUCKET: 1287
+Qtd. Regs.: 0
+0
+T-BUCKET: 1288
+Qtd. Regs.: 0
+0
+T-BUCKET: 1289
+Qtd. Regs.: 0
+0
+T-BUCKET: 1290
+Qtd. Regs.: 0
+0
+T-BUCKET: 1291
+Qtd. Regs.: 0
+0
+T-BUCKET: 1292
+Qtd. Regs.: 0
+0
+T-BUCKET: 1293
+Qtd. Regs.: 0
+0
+T-BUCKET: 1294
+Qtd. Regs.: 0
+0
+T-BUCKET: 1295
+Qtd. Regs.: 0
+0
+T-BUCKET: 1296
+Qtd. Regs.: 0
+0
+T-BUCKET: 1297
+Qtd. Regs.: 0
+0
+T-BUCKET: 1298
+Qtd. Regs.: 0
+0
+T-BUCKET: 1299
+Qtd. Regs.: 0
+0
+T-BUCKET: 1300
+Qtd. Regs.: 0
+0
+T-BUCKET: 1301
+Qtd. Regs.: 0
+0
+T-BUCKET: 1302
+Qtd. Regs.: 0
+0
+T-BUCKET: 1303
+Qtd. Regs.: 0
+0
+T-BUCKET: 1304
+Qtd. Regs.: 0
+0
+T-BUCKET: 1305
+Qtd. Regs.: 0
+0
+T-BUCKET: 1306
+Qtd. Regs.: 0
+0
+T-BUCKET: 1307
+Qtd. Regs.: 0
+0
+T-BUCKET: 1308
+Qtd. Regs.: 0
+0
+T-BUCKET: 1309
+Qtd. Regs.: 0
+0
+T-BUCKET: 1310
+Qtd. Regs.: 0
+0
+T-BUCKET: 1311
+Qtd. Regs.: 0
+0
+T-BUCKET: 1312
+Qtd. Regs.: 0
+0
+T-BUCKET: 1313
+Qtd. Regs.: 0
+0
+T-BUCKET: 1314
+Qtd. Regs.: 0
+0
+T-BUCKET: 1315
+Qtd. Regs.: 0
+0
+T-BUCKET: 1316
+Qtd. Regs.: 0
+0
+T-BUCKET: 1317
+Qtd. Regs.: 0
+0
+T-BUCKET: 1318
+Qtd. Regs.: 0
+0
+T-BUCKET: 1319
+Qtd. Regs.: 0
+0
+T-BUCKET: 1320
+Qtd. Regs.: 0
+0
+T-BUCKET: 1321
+Qtd. Regs.: 0
+0
+T-BUCKET: 1322
+Qtd. Regs.: 0
+0
+T-BUCKET: 1323
+Qtd. Regs.: 0
+0
+T-BUCKET: 1324
+Qtd. Regs.: 0
+0
+T-BUCKET: 1325
+Qtd. Regs.: 0
+0
+T-BUCKET: 1326
+Qtd. Regs.: 0
+0
+T-BUCKET: 1327
+Qtd. Regs.: 0
+0
+T-BUCKET: 1328
+Qtd. Regs.: 0
+0
+T-BUCKET: 1329
+Qtd. Regs.: 0
+0
+T-BUCKET: 1330
+Qtd. Regs.: 0
+0
+T-BUCKET: 1331
+Qtd. Regs.: 0
+0
+T-BUCKET: 1332
+Qtd. Regs.: 0
+0
+T-BUCKET: 1333
+Qtd. Regs.: 0
+0
+T-BUCKET: 1334
+Qtd. Regs.: 0
+0
+T-BUCKET: 1335
+Qtd. Regs.: 0
+0
+T-BUCKET: 1336
+Qtd. Regs.: 0
+0
+T-BUCKET: 1337
+Qtd. Regs.: 0
+0
+T-BUCKET: 1338
+Qtd. Regs.: 0
+0
+T-BUCKET: 1339
+Qtd. Regs.: 0
+0
+T-BUCKET: 1340
+Qtd. Regs.: 0
+0
+T-BUCKET: 1341
+Qtd. Regs.: 0
+0
+T-BUCKET: 1342
+Qtd. Regs.: 0
+0
+T-BUCKET: 1343
+Qtd. Regs.: 0
+0
+T-BUCKET: 1344
+Qtd. Regs.: 0
+0
+T-BUCKET: 1345
+Qtd. Regs.: 0
+0
+T-BUCKET: 1346
+Qtd. Regs.: 0
+0
+T-BUCKET: 1347
+Qtd. Regs.: 0
+0
+T-BUCKET: 1348
+Qtd. Regs.: 0
+0
+T-BUCKET: 1349
+Qtd. Regs.: 0
+0
+T-BUCKET: 1350
+Qtd. Regs.: 0
+0
+T-BUCKET: 1351
+Qtd. Regs.: 0
+0
+T-BUCKET: 1352
+Qtd. Regs.: 0
+0
+T-BUCKET: 1353
+Qtd. Regs.: 0
+0
+T-BUCKET: 1354
+Qtd. Regs.: 0
+0
+T-BUCKET: 1355
+Qtd. Regs.: 0
+0
+T-BUCKET: 1356
+Qtd. Regs.: 0
+0
+T-BUCKET: 1357
+Qtd. Regs.: 0
+0
+T-BUCKET: 1358
+Qtd. Regs.: 0
+0
+T-BUCKET: 1359
+Qtd. Regs.: 0
+0
+T-BUCKET: 1360
+Qtd. Regs.: 0
+0
+T-BUCKET: 1361
+Qtd. Regs.: 0
+0
+T-BUCKET: 1362
+Qtd. Regs.: 0
+0
+T-BUCKET: 1363
+Qtd. Regs.: 0
+0
+T-BUCKET: 1364
+Qtd. Regs.: 0
+0
+T-BUCKET: 1365
+Qtd. Regs.: 0
+0
+T-BUCKET: 1366
+Qtd. Regs.: 0
+0
+T-BUCKET: 1367
+Qtd. Regs.: 0
+0
+T-BUCKET: 1368
+Qtd. Regs.: 0
+0
+T-BUCKET: 1369
+Qtd. Regs.: 0
+0
+T-BUCKET: 1370
+Qtd. Regs.: 0
+0
+T-BUCKET: 1371
+Qtd. Regs.: 0
+0
+T-BUCKET: 1372
+Qtd. Regs.: 0
+0
+T-BUCKET: 1373
+Qtd. Regs.: 0
+0
+T-BUCKET: 1374
+Qtd. Regs.: 0
+0
+T-BUCKET: 1375
+Qtd. Regs.: 0
+0
+T-BUCKET: 1376
+Qtd. Regs.: 0
+0
+T-BUCKET: 1377
+Qtd. Regs.: 0
+0
+T-BUCKET: 1378
+Qtd. Regs.: 0
+0
+T-BUCKET: 1379
+Qtd. Regs.: 0
+0
+T-BUCKET: 1380
+Qtd. Regs.: 0
+0
+T-BUCKET: 1381
+Qtd. Regs.: 0
+0
+T-BUCKET: 1382
+Qtd. Regs.: 0
+0
+T-BUCKET: 1383
+Qtd. Regs.: 0
+0
+T-BUCKET: 1384
+Qtd. Regs.: 0
+0
+T-BUCKET: 1385
+Qtd. Regs.: 0
+0
+T-BUCKET: 1386
+Qtd. Regs.: 0
+0
+T-BUCKET: 1387
+Qtd. Regs.: 0
+0
+T-BUCKET: 1388
+Qtd. Regs.: 0
+0
+T-BUCKET: 1389
+Qtd. Regs.: 0
+0
+T-BUCKET: 1390
+Qtd. Regs.: 0
+0
+T-BUCKET: 1391
+Qtd. Regs.: 0
+0
+T-BUCKET: 1392
+Qtd. Regs.: 0
+0
+T-BUCKET: 1393
+Qtd. Regs.: 0
+0
+T-BUCKET: 1394
+Qtd. Regs.: 0
+0
+T-BUCKET: 1395
+Qtd. Regs.: 0
+0
+T-BUCKET: 1396
+Qtd. Regs.: 0
+0
+T-BUCKET: 1397
+Qtd. Regs.: 0
+0
+T-BUCKET: 1398
+Qtd. Regs.: 0
+0
+T-BUCKET: 1399
+Qtd. Regs.: 0
+0
+T-BUCKET: 1400
+Qtd. Regs.: 0
+0
+T-BUCKET: 1401
+Qtd. Regs.: 0
+0
+T-BUCKET: 1402
+Qtd. Regs.: 0
+0
+T-BUCKET: 1403
+Qtd. Regs.: 0
+0
+T-BUCKET: 1404
+Qtd. Regs.: 0
+0
+T-BUCKET: 1405
+Qtd. Regs.: 0
+0
+T-BUCKET: 1406
+Qtd. Regs.: 0
+0
+T-BUCKET: 1407
+Qtd. Regs.: 0
+0
+T-BUCKET: 1408
+Qtd. Regs.: 0
+0
+T-BUCKET: 1409
+Qtd. Regs.: 0
+0
+T-BUCKET: 1410
+Qtd. Regs.: 0
+0
+T-BUCKET: 1411
+Qtd. Regs.: 0
+0
+T-BUCKET: 1412
+Qtd. Regs.: 0
+0
+T-BUCKET: 1413
+Qtd. Regs.: 0
+0
+T-BUCKET: 1414
+Qtd. Regs.: 0
+0
+T-BUCKET: 1415
+Qtd. Regs.: 0
+0
+T-BUCKET: 1416
+Qtd. Regs.: 0
+0
+T-BUCKET: 1417
+Qtd. Regs.: 0
+0
+T-BUCKET: 1418
+Qtd. Regs.: 0
+0
+T-BUCKET: 1419
+Qtd. Regs.: 0
+0
+T-BUCKET: 1420
+Qtd. Regs.: 0
+0
+T-BUCKET: 1421
+Qtd. Regs.: 0
+0
+T-BUCKET: 1422
+Qtd. Regs.: 0
+0
+T-BUCKET: 1423
+Qtd. Regs.: 0
+0
+T-BUCKET: 1424
+Qtd. Regs.: 0
+0
+T-BUCKET: 1425
+Qtd. Regs.: 0
+0
+T-BUCKET: 1426
+Qtd. Regs.: 0
+0
+T-BUCKET: 1427
+Qtd. Regs.: 0
+0
+T-BUCKET: 1428
+Qtd. Regs.: 0
+0
+T-BUCKET: 1429
+Qtd. Regs.: 0
+0
+T-BUCKET: 1430
+Qtd. Regs.: 0
+0
+T-BUCKET: 1431
+Qtd. Regs.: 0
+0
+T-BUCKET: 1432
+Qtd. Regs.: 0
+0
+T-BUCKET: 1433
+Qtd. Regs.: 0
+0
+T-BUCKET: 1434
+Qtd. Regs.: 0
+0
+T-BUCKET: 1435
+Qtd. Regs.: 0
+0
+T-BUCKET: 1436
+Qtd. Regs.: 0
+0
+T-BUCKET: 1437
+Qtd. Regs.: 0
+0
+T-BUCKET: 1438
+Qtd. Regs.: 0
+0
+T-BUCKET: 1439
+Qtd. Regs.: 0
+0
+T-BUCKET: 1440
+Qtd. Regs.: 0
+0
+T-BUCKET: 1441
+Qtd. Regs.: 0
+0
+T-BUCKET: 1442
+Qtd. Regs.: 0
+0
+T-BUCKET: 1443
+Qtd. Regs.: 0
+0
+T-BUCKET: 1444
+Qtd. Regs.: 0
+0
+T-BUCKET: 1445
+Qtd. Regs.: 0
+0
+T-BUCKET: 1446
+Qtd. Regs.: 0
+0
+T-BUCKET: 1447
+Qtd. Regs.: 0
+0
+T-BUCKET: 1448
+Qtd. Regs.: 0
+0
+T-BUCKET: 1449
+Qtd. Regs.: 0
+0
+T-BUCKET: 1450
+Qtd. Regs.: 0
+0
+T-BUCKET: 1451
+Qtd. Regs.: 0
+0
+T-BUCKET: 1452
+Qtd. Regs.: 0
+0
+T-BUCKET: 1453
+Qtd. Regs.: 0
+0
+T-BUCKET: 1454
+Qtd. Regs.: 0
+0
+T-BUCKET: 1455
+Qtd. Regs.: 0
+0
+T-BUCKET: 1456
+Qtd. Regs.: 0
+0
+T-BUCKET: 1457
+Qtd. Regs.: 0
+0
+T-BUCKET: 1458
+Qtd. Regs.: 0
+0
+T-BUCKET: 1459
+Qtd. Regs.: 0
+0
+T-BUCKET: 1460
+Qtd. Regs.: 0
+0
+T-BUCKET: 1461
+Qtd. Regs.: 0
+0
+T-BUCKET: 1462
+Qtd. Regs.: 0
+0
+T-BUCKET: 1463
+Qtd. Regs.: 0
+0
+T-BUCKET: 1464
+Qtd. Regs.: 0
+0
+T-BUCKET: 1465
+Qtd. Regs.: 0
+0
+T-BUCKET: 1466
+Qtd. Regs.: 0
+0
+T-BUCKET: 1467
+Qtd. Regs.: 0
+0
+T-BUCKET: 1468
+Qtd. Regs.: 0
+0
+T-BUCKET: 1469
+Qtd. Regs.: 0
+0
+T-BUCKET: 1470
+Qtd. Regs.: 0
+0
+T-BUCKET: 1471
+Qtd. Regs.: 0
+0
+T-BUCKET: 1472
+Qtd. Regs.: 0
+0
+T-BUCKET: 1473
+Qtd. Regs.: 0
+0
+T-BUCKET: 1474
+Qtd. Regs.: 0
+0
+T-BUCKET: 1475
+Qtd. Regs.: 0
+0
+T-BUCKET: 1476
+Qtd. Regs.: 0
+0
+T-BUCKET: 1477
+Qtd. Regs.: 0
+0
+T-BUCKET: 1478
+Qtd. Regs.: 0
+0
+T-BUCKET: 1479
+Qtd. Regs.: 0
+0
+T-BUCKET: 1480
+Qtd. Regs.: 0
+0
+T-BUCKET: 1481
+Qtd. Regs.: 0
+0
+T-BUCKET: 1482
+Qtd. Regs.: 0
+0
+T-BUCKET: 1483
+Qtd. Regs.: 0
+0
+T-BUCKET: 1484
+Qtd. Regs.: 0
+0
+T-BUCKET: 1485
+Qtd. Regs.: 0
+0
+T-BUCKET: 1486
+Qtd. Regs.: 0
+0
+T-BUCKET: 1487
+Qtd. Regs.: 0
+0
+T-BUCKET: 1488
+Qtd. Regs.: 0
+0
+T-BUCKET: 1489
+Qtd. Regs.: 0
+0
+T-BUCKET: 1490
+Qtd. Regs.: 0
+0
+T-BUCKET: 1491
+Qtd. Regs.: 0
+0
+T-BUCKET: 1492
+Qtd. Regs.: 0
+0
+T-BUCKET: 1493
+Qtd. Regs.: 0
+0
+T-BUCKET: 1494
+Qtd. Regs.: 0
+0
+T-BUCKET: 1495
+Qtd. Regs.: 0
+0
+T-BUCKET: 1496
+Qtd. Regs.: 0
+0
+T-BUCKET: 1497
+Qtd. Regs.: 0
+0
+T-BUCKET: 1498
+Qtd. Regs.: 0
+0
+T-BUCKET: 1499
+Qtd. Regs.: 0
+0
+T-BUCKET: 1500
+Qtd. Regs.: 0
+0
+T-BUCKET: 1501
+Qtd. Regs.: 0
+0
+T-BUCKET: 1502
+Qtd. Regs.: 0
+0
+T-BUCKET: 1503
+Qtd. Regs.: 0
+0
+T-BUCKET: 1504
+Qtd. Regs.: 0
+0
+T-BUCKET: 1505
+Qtd. Regs.: 0
+0
+T-BUCKET: 1506
+Qtd. Regs.: 0
+0
+T-BUCKET: 1507
+Qtd. Regs.: 0
+0
+T-BUCKET: 1508
+Qtd. Regs.: 0
+0
+T-BUCKET: 1509
+Qtd. Regs.: 0
+0
+T-BUCKET: 1510
+Qtd. Regs.: 0
+0
+T-BUCKET: 1511
+Qtd. Regs.: 0
+0
+T-BUCKET: 1512
+Qtd. Regs.: 0
+0
+T-BUCKET: 1513
+Qtd. Regs.: 0
+0
+T-BUCKET: 1514
+Qtd. Regs.: 0
+0
+T-BUCKET: 1515
+Qtd. Regs.: 0
+0
+T-BUCKET: 1516
+Qtd. Regs.: 0
+0
+T-BUCKET: 1517
+Qtd. Regs.: 0
+0
+T-BUCKET: 1518
+Qtd. Regs.: 0
+0
+T-BUCKET: 1519
+Qtd. Regs.: 0
+0
+T-BUCKET: 1520
+Qtd. Regs.: 0
+0
+T-BUCKET: 1521
+Qtd. Regs.: 0
+0
+T-BUCKET: 1522
+Qtd. Regs.: 0
+0
+T-BUCKET: 1523
+Qtd. Regs.: 0
+0
+T-BUCKET: 1524
+Qtd. Regs.: 0
+0
+T-BUCKET: 1525
+Qtd. Regs.: 0
+0
+T-BUCKET: 1526
+Qtd. Regs.: 0
+0
+T-BUCKET: 1527
+Qtd. Regs.: 0
+0
+T-BUCKET: 1528
+Qtd. Regs.: 0
+0
+T-BUCKET: 1529
+Qtd. Regs.: 0
+0
+T-BUCKET: 1530
+Qtd. Regs.: 0
+0
+T-BUCKET: 1531
+Qtd. Regs.: 0
+0
+T-BUCKET: 1532
+Qtd. Regs.: 0
+0
+T-BUCKET: 1533
+Qtd. Regs.: 0
+0
+T-BUCKET: 1534
+Qtd. Regs.: 0
+0
+T-BUCKET: 1535
+Qtd. Regs.: 0
+0
+T-BUCKET: 1536
+Qtd. Regs.: 0
+0
+T-BUCKET: 1537
+Qtd. Regs.: 0
+0
+T-BUCKET: 1538
+Qtd. Regs.: 0
+0
+T-BUCKET: 1539
+Qtd. Regs.: 0
+0
+T-BUCKET: 1540
+Qtd. Regs.: 0
+0
+T-BUCKET: 1541
+Qtd. Regs.: 0
+0
+T-BUCKET: 1542
+Qtd. Regs.: 0
+0
+T-BUCKET: 1543
+Qtd. Regs.: 0
+0
+T-BUCKET: 1544
+Qtd. Regs.: 0
+0
+T-BUCKET: 1545
+Qtd. Regs.: 0
+0
+T-BUCKET: 1546
+Qtd. Regs.: 0
+0
+T-BUCKET: 1547
+Qtd. Regs.: 0
+0
+T-BUCKET: 1548
+Qtd. Regs.: 0
+0
+T-BUCKET: 1549
+Qtd. Regs.: 0
+0
+T-BUCKET: 1550
+Qtd. Regs.: 0
+0
+T-BUCKET: 1551
+Qtd. Regs.: 0
+0
+T-BUCKET: 1552
+Qtd. Regs.: 0
+0
+T-BUCKET: 1553
+Qtd. Regs.: 0
+0
+T-BUCKET: 1554
+Qtd. Regs.: 0
+0
+T-BUCKET: 1555
+Qtd. Regs.: 0
+0
+T-BUCKET: 1556
+Qtd. Regs.: 0
+0
+T-BUCKET: 1557
+Qtd. Regs.: 0
+0
+T-BUCKET: 1558
+Qtd. Regs.: 0
+0
+T-BUCKET: 1559
+Qtd. Regs.: 0
+0
+T-BUCKET: 1560
+Qtd. Regs.: 0
+0
+T-BUCKET: 1561
+Qtd. Regs.: 0
+0
+T-BUCKET: 1562
+Qtd. Regs.: 0
+0
+T-BUCKET: 1563
+Qtd. Regs.: 0
+0
+T-BUCKET: 1564
+Qtd. Regs.: 0
+0
+T-BUCKET: 1565
+Qtd. Regs.: 0
+0
+T-BUCKET: 1566
+Qtd. Regs.: 0
+0
+T-BUCKET: 1567
+Qtd. Regs.: 0
+0
+T-BUCKET: 1568
+Qtd. Regs.: 0
+0
+T-BUCKET: 1569
+Qtd. Regs.: 0
+0
+T-BUCKET: 1570
+Qtd. Regs.: 0
+0
+T-BUCKET: 1571
+Qtd. Regs.: 0
+0
+T-BUCKET: 1572
+Qtd. Regs.: 0
+0
+T-BUCKET: 1573
+Qtd. Regs.: 0
+0
+T-BUCKET: 1574
+Qtd. Regs.: 0
+0
+T-BUCKET: 1575
+Qtd. Regs.: 0
+0
+T-BUCKET: 1576
+Qtd. Regs.: 0
+0
+T-BUCKET: 1577
+Qtd. Regs.: 0
+0
+T-BUCKET: 1578
+Qtd. Regs.: 0
+0
+T-BUCKET: 1579
+Qtd. Regs.: 0
+0
+T-BUCKET: 1580
+Qtd. Regs.: 0
+0
+T-BUCKET: 1581
+Qtd. Regs.: 0
+0
+T-BUCKET: 1582
+Qtd. Regs.: 0
+0
+T-BUCKET: 1583
+Qtd. Regs.: 0
+0
+T-BUCKET: 1584
+Qtd. Regs.: 0
+0
+T-BUCKET: 1585
+Qtd. Regs.: 0
+0
+T-BUCKET: 1586
+Qtd. Regs.: 0
+0
+T-BUCKET: 1587
+Qtd. Regs.: 0
+0
+T-BUCKET: 1588
+Qtd. Regs.: 0
+0
+T-BUCKET: 1589
+Qtd. Regs.: 0
+0
+T-BUCKET: 1590
+Qtd. Regs.: 0
+0
+T-BUCKET: 1591
+Qtd. Regs.: 0
+0
+T-BUCKET: 1592
+Qtd. Regs.: 0
+0
+T-BUCKET: 1593
+Qtd. Regs.: 0
+0
+T-BUCKET: 1594
+Qtd. Regs.: 0
+0
+T-BUCKET: 1595
+Qtd. Regs.: 0
+0
+T-BUCKET: 1596
+Qtd. Regs.: 0
+0
+T-BUCKET: 1597
+Qtd. Regs.: 0
+0
+T-BUCKET: 1598
+Qtd. Regs.: 0
+0
+T-BUCKET: 1599
+Qtd. Regs.: 0
+0
+T-BUCKET: 1600
+Qtd. Regs.: 0
+0
+T-BUCKET: 1601
+Qtd. Regs.: 0
+0
+T-BUCKET: 1602
+Qtd. Regs.: 0
+0
+T-BUCKET: 1603
+Qtd. Regs.: 0
+0
+T-BUCKET: 1604
+Qtd. Regs.: 0
+0
+T-BUCKET: 1605
+Qtd. Regs.: 0
+0
+T-BUCKET: 1606
+Qtd. Regs.: 0
+0
+T-BUCKET: 1607
+Qtd. Regs.: 0
+0
+T-BUCKET: 1608
+Qtd. Regs.: 0
+0
+T-BUCKET: 1609
+Qtd. Regs.: 0
+0
+T-BUCKET: 1610
+Qtd. Regs.: 0
+0
+T-BUCKET: 1611
+Qtd. Regs.: 0
+0
+T-BUCKET: 1612
+Qtd. Regs.: 0
+0
+T-BUCKET: 1613
+Qtd. Regs.: 0
+0
+T-BUCKET: 1614
+Qtd. Regs.: 0
+0
+T-BUCKET: 1615
+Qtd. Regs.: 0
+0
+T-BUCKET: 1616
+Qtd. Regs.: 0
+0
+T-BUCKET: 1617
+Qtd. Regs.: 0
+0
+T-BUCKET: 1618
+Qtd. Regs.: 0
+0
+T-BUCKET: 1619
+Qtd. Regs.: 0
+0
+T-BUCKET: 1620
+Qtd. Regs.: 0
+0
+T-BUCKET: 1621
+Qtd. Regs.: 0
+0
+T-BUCKET: 1622
+Qtd. Regs.: 0
+0
+T-BUCKET: 1623
+Qtd. Regs.: 0
+0
+T-BUCKET: 1624
+Qtd. Regs.: 0
+0
+T-BUCKET: 1625
+Qtd. Regs.: 0
+0
+T-BUCKET: 1626
+Qtd. Regs.: 0
+0
+T-BUCKET: 1627
+Qtd. Regs.: 0
+0
+T-BUCKET: 1628
+Qtd. Regs.: 0
+0
+T-BUCKET: 1629
+Qtd. Regs.: 0
+0
+T-BUCKET: 1630
+Qtd. Regs.: 0
+0
+T-BUCKET: 1631
+Qtd. Regs.: 0
+0
+T-BUCKET: 1632
+Qtd. Regs.: 0
+0
+T-BUCKET: 1633
+Qtd. Regs.: 0
+0
+T-BUCKET: 1634
+Qtd. Regs.: 0
+0
+T-BUCKET: 1635
+Qtd. Regs.: 0
+0
+T-BUCKET: 1636
+Qtd. Regs.: 0
+0
+T-BUCKET: 1637
+Qtd. Regs.: 0
+0
+T-BUCKET: 1638
+Qtd. Regs.: 0
+0
+T-BUCKET: 1639
+Qtd. Regs.: 0
+0
+T-BUCKET: 1640
+Qtd. Regs.: 0
+0
+T-BUCKET: 1641
+Qtd. Regs.: 0
+0
+T-BUCKET: 1642
+Qtd. Regs.: 0
+0
+T-BUCKET: 1643
+Qtd. Regs.: 0
+0
+T-BUCKET: 1644
+Qtd. Regs.: 0
+0
+T-BUCKET: 1645
+Qtd. Regs.: 0
+0
+T-BUCKET: 1646
+Qtd. Regs.: 0
+0
+T-BUCKET: 1647
+Qtd. Regs.: 0
+0
+T-BUCKET: 1648
+Qtd. Regs.: 0
+0
+T-BUCKET: 1649
+Qtd. Regs.: 0
+0
+T-BUCKET: 1650
+Qtd. Regs.: 0
+0
+T-BUCKET: 1651
+Qtd. Regs.: 0
+0
+T-BUCKET: 1652
+Qtd. Regs.: 0
+0
+T-BUCKET: 1653
+Qtd. Regs.: 0
+0
+T-BUCKET: 1654
+Qtd. Regs.: 0
+0
+T-BUCKET: 1655
+Qtd. Regs.: 0
+0
+T-BUCKET: 1656
+Qtd. Regs.: 0
+0
+T-BUCKET: 1657
+Qtd. Regs.: 0
+0
+T-BUCKET: 1658
+Qtd. Regs.: 0
+0
+T-BUCKET: 1659
+Qtd. Regs.: 0
+0
+T-BUCKET: 1660
+Qtd. Regs.: 0
+0
+T-BUCKET: 1661
+Qtd. Regs.: 0
+0
+T-BUCKET: 1662
+Qtd. Regs.: 0
+0
+T-BUCKET: 1663
+Qtd. Regs.: 0
+0
+T-BUCKET: 1664
+Qtd. Regs.: 0
+0
+T-BUCKET: 1665
+Qtd. Regs.: 0
+0
+T-BUCKET: 1666
+Qtd. Regs.: 0
+0
+T-BUCKET: 1667
+Qtd. Regs.: 0
+0
+T-BUCKET: 1668
+Qtd. Regs.: 0
+0
+T-BUCKET: 1669
+Qtd. Regs.: 0
+0
+T-BUCKET: 1670
+Qtd. Regs.: 0
+0
+T-BUCKET: 1671
+Qtd. Regs.: 0
+0
+T-BUCKET: 1672
+Qtd. Regs.: 0
+0
+T-BUCKET: 1673
+Qtd. Regs.: 0
+0
+T-BUCKET: 1674
+Qtd. Regs.: 0
+0
+T-BUCKET: 1675
+Qtd. Regs.: 0
+0
+T-BUCKET: 1676
+Qtd. Regs.: 0
+0
+T-BUCKET: 1677
+Qtd. Regs.: 0
+0
+T-BUCKET: 1678
+Qtd. Regs.: 0
+0
+T-BUCKET: 1679
+Qtd. Regs.: 0
+0
+T-BUCKET: 1680
+Qtd. Regs.: 0
+0
+T-BUCKET: 1681
+Qtd. Regs.: 0
+0
+T-BUCKET: 1682
+Qtd. Regs.: 0
+0
+T-BUCKET: 1683
+Qtd. Regs.: 0
+0
+T-BUCKET: 1684
+Qtd. Regs.: 0
+0
+T-BUCKET: 1685
+Qtd. Regs.: 0
+0
+T-BUCKET: 1686
+Qtd. Regs.: 0
+0
+T-BUCKET: 1687
+Qtd. Regs.: 0
+0
+T-BUCKET: 1688
+Qtd. Regs.: 0
+0
+T-BUCKET: 1689
+Qtd. Regs.: 0
+0
+T-BUCKET: 1690
+Qtd. Regs.: 0
+0
+T-BUCKET: 1691
+Qtd. Regs.: 0
+0
+T-BUCKET: 1692
+Qtd. Regs.: 0
+0
+T-BUCKET: 1693
+Qtd. Regs.: 0
+0
+T-BUCKET: 1694
+Qtd. Regs.: 0
+0
+T-BUCKET: 1695
+Qtd. Regs.: 0
+0
+T-BUCKET: 1696
+Qtd. Regs.: 0
+0
+T-BUCKET: 1697
+Qtd. Regs.: 0
+0
+T-BUCKET: 1698
+Qtd. Regs.: 0
+0
+T-BUCKET: 1699
+Qtd. Regs.: 0
+0
+T-BUCKET: 1700
+Qtd. Regs.: 0
+0
+T-BUCKET: 1701
+Qtd. Regs.: 0
+0
+T-BUCKET: 1702
+Qtd. Regs.: 0
+0
+T-BUCKET: 1703
+Qtd. Regs.: 0
+0
+T-BUCKET: 1704
+Qtd. Regs.: 0
+0
+T-BUCKET: 1705
+Qtd. Regs.: 0
+0
+T-BUCKET: 1706
+Qtd. Regs.: 0
+0
+T-BUCKET: 1707
+Qtd. Regs.: 0
+0
+T-BUCKET: 1708
+Qtd. Regs.: 0
+0
+T-BUCKET: 1709
+Qtd. Regs.: 0
+0
+T-BUCKET: 1710
+Qtd. Regs.: 0
+0
+T-BUCKET: 1711
+Qtd. Regs.: 0
+0
+T-BUCKET: 1712
+Qtd. Regs.: 0
+0
+T-BUCKET: 1713
+Qtd. Regs.: 0
+0
+T-BUCKET: 1714
+Qtd. Regs.: 0
+0
+T-BUCKET: 1715
+Qtd. Regs.: 0
+0
+T-BUCKET: 1716
+Qtd. Regs.: 0
+0
+T-BUCKET: 1717
+Qtd. Regs.: 0
+0
+T-BUCKET: 1718
+Qtd. Regs.: 0
+0
+T-BUCKET: 1719
+Qtd. Regs.: 0
+0
+T-BUCKET: 1720
+Qtd. Regs.: 0
+0
+T-BUCKET: 1721
+Qtd. Regs.: 0
+0
+T-BUCKET: 1722
+Qtd. Regs.: 0
+0
+T-BUCKET: 1723
+Qtd. Regs.: 0
+0
+T-BUCKET: 1724
+Qtd. Regs.: 0
+0
+T-BUCKET: 1725
+Qtd. Regs.: 0
+0
+T-BUCKET: 1726
+Qtd. Regs.: 0
+0
+T-BUCKET: 1727
+Qtd. Regs.: 0
+0
+T-BUCKET: 1728
+Qtd. Regs.: 0
+0
+T-BUCKET: 1729
+Qtd. Regs.: 0
+0
+T-BUCKET: 1730
+Qtd. Regs.: 0
+0
+T-BUCKET: 1731
+Qtd. Regs.: 0
+0
+T-BUCKET: 1732
+Qtd. Regs.: 0
+0
+T-BUCKET: 1733
+Qtd. Regs.: 0
+0
+T-BUCKET: 1734
+Qtd. Regs.: 0
+0
+T-BUCKET: 1735
+Qtd. Regs.: 0
+0
+T-BUCKET: 1736
+Qtd. Regs.: 0
+0
+T-BUCKET: 1737
+Qtd. Regs.: 0
+0
+T-BUCKET: 1738
+Qtd. Regs.: 0
+0
+T-BUCKET: 1739
+Qtd. Regs.: 0
+0
+T-BUCKET: 1740
+Qtd. Regs.: 0
+0
+T-BUCKET: 1741
+Qtd. Regs.: 0
+0
+T-BUCKET: 1742
+Qtd. Regs.: 0
+0
+T-BUCKET: 1743
+Qtd. Regs.: 0
+0
+T-BUCKET: 1744
+Qtd. Regs.: 0
+0
+T-BUCKET: 1745
+Qtd. Regs.: 0
+0
+T-BUCKET: 1746
+Qtd. Regs.: 0
+0
+T-BUCKET: 1747
+Qtd. Regs.: 0
+0
+T-BUCKET: 1748
+Qtd. Regs.: 0
+0
+T-BUCKET: 1749
+Qtd. Regs.: 0
+0
+T-BUCKET: 1750
+Qtd. Regs.: 0
+0
+T-BUCKET: 1751
+Qtd. Regs.: 0
+0
+T-BUCKET: 1752
+Qtd. Regs.: 0
+0
+T-BUCKET: 1753
+Qtd. Regs.: 0
+0
+T-BUCKET: 1754
+Qtd. Regs.: 0
+0
+T-BUCKET: 1755
+Qtd. Regs.: 0
+0
+T-BUCKET: 1756
+Qtd. Regs.: 0
+0
+T-BUCKET: 1757
+Qtd. Regs.: 0
+0
+T-BUCKET: 1758
+Qtd. Regs.: 0
+0
+T-BUCKET: 1759
+Qtd. Regs.: 0
+0
+T-BUCKET: 1760
+Qtd. Regs.: 0
+0
+T-BUCKET: 1761
+Qtd. Regs.: 0
+0
+T-BUCKET: 1762
+Qtd. Regs.: 0
+0
+T-BUCKET: 1763
+Qtd. Regs.: 0
+0
+T-BUCKET: 1764
+Qtd. Regs.: 0
+0
+T-BUCKET: 1765
+Qtd. Regs.: 0
+0
+T-BUCKET: 1766
+Qtd. Regs.: 0
+0
+T-BUCKET: 1767
+Qtd. Regs.: 0
+0
+T-BUCKET: 1768
+Qtd. Regs.: 0
+0
+T-BUCKET: 1769
+Qtd. Regs.: 0
+0
+T-BUCKET: 1770
+Qtd. Regs.: 0
+0
+T-BUCKET: 1771
+Qtd. Regs.: 0
+0
+T-BUCKET: 1772
+Qtd. Regs.: 0
+0
+T-BUCKET: 1773
+Qtd. Regs.: 0
+0
+T-BUCKET: 1774
+Qtd. Regs.: 0
+0
+T-BUCKET: 1775
+Qtd. Regs.: 0
+0
+T-BUCKET: 1776
+Qtd. Regs.: 0
+0
+T-BUCKET: 1777
+Qtd. Regs.: 0
+0
+T-BUCKET: 1778
+Qtd. Regs.: 0
+0
+T-BUCKET: 1779
+Qtd. Regs.: 0
+0
+T-BUCKET: 1780
+Qtd. Regs.: 0
+0
+T-BUCKET: 1781
+Qtd. Regs.: 0
+0
+T-BUCKET: 1782
+Qtd. Regs.: 0
+0
+T-BUCKET: 1783
+Qtd. Regs.: 0
+0
+T-BUCKET: 1784
+Qtd. Regs.: 0
+0
+T-BUCKET: 1785
+Qtd. Regs.: 0
+0
+T-BUCKET: 1786
+Qtd. Regs.: 0
+0
+T-BUCKET: 1787
+Qtd. Regs.: 0
+0
+T-BUCKET: 1788
+Qtd. Regs.: 0
+0
+T-BUCKET: 1789
+Qtd. Regs.: 0
+0
+T-BUCKET: 1790
+Qtd. Regs.: 0
+0
+T-BUCKET: 1791
+Qtd. Regs.: 0
+0
+T-BUCKET: 1792
+Qtd. Regs.: 0
+0
+T-BUCKET: 1793
+Qtd. Regs.: 0
+0
+T-BUCKET: 1794
+Qtd. Regs.: 0
+0
+T-BUCKET: 1795
+Qtd. Regs.: 0
+0
+T-BUCKET: 1796
+Qtd. Regs.: 0
+0
+T-BUCKET: 1797
+Qtd. Regs.: 0
+0
+T-BUCKET: 1798
+Qtd. Regs.: 0
+0
+T-BUCKET: 1799
+Qtd. Regs.: 0
+0
+T-BUCKET: 1800
+Qtd. Regs.: 0
+0
+T-BUCKET: 1801
+Qtd. Regs.: 0
+0
+T-BUCKET: 1802
+Qtd. Regs.: 0
+0
+T-BUCKET: 1803
+Qtd. Regs.: 0
+0
+T-BUCKET: 1804
+Qtd. Regs.: 0
+0
+T-BUCKET: 1805
+Qtd. Regs.: 0
+0
+T-BUCKET: 1806
+Qtd. Regs.: 0
+0
+T-BUCKET: 1807
+Qtd. Regs.: 0
+0
+T-BUCKET: 1808
+Qtd. Regs.: 0
+0
+T-BUCKET: 1809
+Qtd. Regs.: 0
+0
+T-BUCKET: 1810
+Qtd. Regs.: 0
+0
+T-BUCKET: 1811
+Qtd. Regs.: 0
+0
+T-BUCKET: 1812
+Qtd. Regs.: 0
+0
+T-BUCKET: 1813
+Qtd. Regs.: 0
+0
+T-BUCKET: 1814
+Qtd. Regs.: 0
+0
+T-BUCKET: 1815
+Qtd. Regs.: 0
+0
+T-BUCKET: 1816
+Qtd. Regs.: 0
+0
+T-BUCKET: 1817
+Qtd. Regs.: 0
+0
+T-BUCKET: 1818
+Qtd. Regs.: 0
+0
+T-BUCKET: 1819
+Qtd. Regs.: 0
+0
+T-BUCKET: 1820
+Qtd. Regs.: 0
+0
+T-BUCKET: 1821
+Qtd. Regs.: 0
+0
+T-BUCKET: 1822
+Qtd. Regs.: 0
+0
+T-BUCKET: 1823
+Qtd. Regs.: 0
+0
+T-BUCKET: 1824
+Qtd. Regs.: 0
+0
+T-BUCKET: 1825
+Qtd. Regs.: 0
+0
+T-BUCKET: 1826
+Qtd. Regs.: 0
+0
+T-BUCKET: 1827
+Qtd. Regs.: 0
+0
+T-BUCKET: 1828
+Qtd. Regs.: 0
+0
+T-BUCKET: 1829
+Qtd. Regs.: 0
+0
+T-BUCKET: 1830
+Qtd. Regs.: 0
+0
+T-BUCKET: 1831
+Qtd. Regs.: 0
+0
+T-BUCKET: 1832
+Qtd. Regs.: 0
+0
+T-BUCKET: 1833
+Qtd. Regs.: 0
+0
+T-BUCKET: 1834
+Qtd. Regs.: 0
+0
+T-BUCKET: 1835
+Qtd. Regs.: 0
+0
+T-BUCKET: 1836
+Qtd. Regs.: 0
+0
+T-BUCKET: 1837
+Qtd. Regs.: 0
+0
+T-BUCKET: 1838
+Qtd. Regs.: 0
+0
+T-BUCKET: 1839
+Qtd. Regs.: 0
+0
+T-BUCKET: 1840
+Qtd. Regs.: 0
+0
+T-BUCKET: 1841
+Qtd. Regs.: 0
+0
+T-BUCKET: 1842
+Qtd. Regs.: 0
+0
+T-BUCKET: 1843
+Qtd. Regs.: 0
+0
+T-BUCKET: 1844
+Qtd. Regs.: 0
+0
+T-BUCKET: 1845
+Qtd. Regs.: 0
+0
+T-BUCKET: 1846
+Qtd. Regs.: 0
+0
+T-BUCKET: 1847
+Qtd. Regs.: 0
+0
+T-BUCKET: 1848
+Qtd. Regs.: 0
+0
+T-BUCKET: 1849
+Qtd. Regs.: 0
+0
+T-BUCKET: 1850
+Qtd. Regs.: 0
+0
+T-BUCKET: 1851
+Qtd. Regs.: 0
+0
+T-BUCKET: 1852
+Qtd. Regs.: 0
+0
+T-BUCKET: 1853
+Qtd. Regs.: 0
+0
+T-BUCKET: 1854
+Qtd. Regs.: 0
+0
+T-BUCKET: 1855
+Qtd. Regs.: 0
+0
+T-BUCKET: 1856
+Qtd. Regs.: 0
+0
+T-BUCKET: 1857
+Qtd. Regs.: 0
+0
+T-BUCKET: 1858
+Qtd. Regs.: 0
+0
+T-BUCKET: 1859
+Qtd. Regs.: 0
+0
+T-BUCKET: 1860
+Qtd. Regs.: 0
+0
+T-BUCKET: 1861
+Qtd. Regs.: 0
+0
+T-BUCKET: 1862
+Qtd. Regs.: 0
+0
+T-BUCKET: 1863
+Qtd. Regs.: 0
+0
+T-BUCKET: 1864
+Qtd. Regs.: 0
+0
+T-BUCKET: 1865
+Qtd. Regs.: 0
+0
+T-BUCKET: 1866
+Qtd. Regs.: 0
+0
+T-BUCKET: 1867
+Qtd. Regs.: 0
+0
+T-BUCKET: 1868
+Qtd. Regs.: 0
+0
+T-BUCKET: 1869
+Qtd. Regs.: 0
+0
+T-BUCKET: 1870
+Qtd. Regs.: 0
+0
+T-BUCKET: 1871
+Qtd. Regs.: 0
+0
+T-BUCKET: 1872
+Qtd. Regs.: 0
+0
+T-BUCKET: 1873
+Qtd. Regs.: 0
+0
+T-BUCKET: 1874
+Qtd. Regs.: 0
+0
+T-BUCKET: 1875
+Qtd. Regs.: 0
+0
+T-BUCKET: 1876
+Qtd. Regs.: 0
+0
+T-BUCKET: 1877
+Qtd. Regs.: 0
+0
+T-BUCKET: 1878
+Qtd. Regs.: 0
+0
+T-BUCKET: 1879
+Qtd. Regs.: 0
+0
+T-BUCKET: 1880
+Qtd. Regs.: 0
+0
+T-BUCKET: 1881
+Qtd. Regs.: 0
+0
+T-BUCKET: 1882
+Qtd. Regs.: 0
+0
+T-BUCKET: 1883
+Qtd. Regs.: 0
+0
+T-BUCKET: 1884
+Qtd. Regs.: 0
+0
+T-BUCKET: 1885
+Qtd. Regs.: 0
+0
+T-BUCKET: 1886
+Qtd. Regs.: 0
+0
+T-BUCKET: 1887
+Qtd. Regs.: 0
+0
+T-BUCKET: 1888
+Qtd. Regs.: 0
+0
+T-BUCKET: 1889
+Qtd. Regs.: 0
+0
+T-BUCKET: 1890
+Qtd. Regs.: 0
+0
+T-BUCKET: 1891
+Qtd. Regs.: 0
+0
+T-BUCKET: 1892
+Qtd. Regs.: 0
+0
+T-BUCKET: 1893
+Qtd. Regs.: 0
+0
+T-BUCKET: 1894
+Qtd. Regs.: 0
+0
+T-BUCKET: 1895
+Qtd. Regs.: 0
+0
+T-BUCKET: 1896
+Qtd. Regs.: 0
+0
+T-BUCKET: 1897
+Qtd. Regs.: 0
+0
+T-BUCKET: 1898
+Qtd. Regs.: 0
+0
+T-BUCKET: 1899
+Qtd. Regs.: 0
+0
+T-BUCKET: 1900
+Qtd. Regs.: 0
+0
+T-BUCKET: 1901
+Qtd. Regs.: 0
+0
+T-BUCKET: 1902
+Qtd. Regs.: 0
+0
+T-BUCKET: 1903
+Qtd. Regs.: 0
+0
+T-BUCKET: 1904
+Qtd. Regs.: 0
+0
+T-BUCKET: 1905
+Qtd. Regs.: 0
+0
+T-BUCKET: 1906
+Qtd. Regs.: 0
+0
+T-BUCKET: 1907
+Qtd. Regs.: 0
+0
+T-BUCKET: 1908
+Qtd. Regs.: 0
+0
+T-BUCKET: 1909
+Qtd. Regs.: 0
+0
+T-BUCKET: 1910
+Qtd. Regs.: 0
+0
+T-BUCKET: 1911
+Qtd. Regs.: 0
+0
+T-BUCKET: 1912
+Qtd. Regs.: 0
+0
+T-BUCKET: 1913
+Qtd. Regs.: 0
+0
+T-BUCKET: 1914
+Qtd. Regs.: 0
+0
+T-BUCKET: 1915
+Qtd. Regs.: 0
+0
+T-BUCKET: 1916
+Qtd. Regs.: 0
+0
+T-BUCKET: 1917
+Qtd. Regs.: 0
+0
+T-BUCKET: 1918
+Qtd. Regs.: 0
+0
+T-BUCKET: 1919
+Qtd. Regs.: 0
+0
+T-BUCKET: 1920
+Qtd. Regs.: 0
+0
+T-BUCKET: 1921
+Qtd. Regs.: 0
+0
+T-BUCKET: 1922
+Qtd. Regs.: 0
+0
+T-BUCKET: 1923
+Qtd. Regs.: 0
+0
+T-BUCKET: 1924
+Qtd. Regs.: 0
+0
+T-BUCKET: 1925
+Qtd. Regs.: 0
+0
+T-BUCKET: 1926
+Qtd. Regs.: 0
+0
+T-BUCKET: 1927
+Qtd. Regs.: 0
+0
+T-BUCKET: 1928
+Qtd. Regs.: 0
+0
+T-BUCKET: 1929
+Qtd. Regs.: 0
+0
+T-BUCKET: 1930
+Qtd. Regs.: 0
+0
+T-BUCKET: 1931
+Qtd. Regs.: 0
+0
+T-BUCKET: 1932
+Qtd. Regs.: 0
+0
+T-BUCKET: 1933
+Qtd. Regs.: 0
+0
+T-BUCKET: 1934
+Qtd. Regs.: 0
+0
+T-BUCKET: 1935
+Qtd. Regs.: 0
+0
+T-BUCKET: 1936
+Qtd. Regs.: 0
+0
+T-BUCKET: 1937
+Qtd. Regs.: 0
+0
+T-BUCKET: 1938
+Qtd. Regs.: 0
+0
+T-BUCKET: 1939
+Qtd. Regs.: 0
+0
+T-BUCKET: 1940
+Qtd. Regs.: 0
+0
+T-BUCKET: 1941
+Qtd. Regs.: 0
+0
+T-BUCKET: 1942
+Qtd. Regs.: 0
+0
+T-BUCKET: 1943
+Qtd. Regs.: 0
+0
+T-BUCKET: 1944
+Qtd. Regs.: 0
+0
+T-BUCKET: 1945
+Qtd. Regs.: 0
+0
+T-BUCKET: 1946
+Qtd. Regs.: 0
+0
+T-BUCKET: 1947
+Qtd. Regs.: 0
+0
+T-BUCKET: 1948
+Qtd. Regs.: 0
+0
+T-BUCKET: 1949
+Qtd. Regs.: 0
+0
+T-BUCKET: 1950
+Qtd. Regs.: 0
+0
+T-BUCKET: 1951
+Qtd. Regs.: 0
+0
+T-BUCKET: 1952
+Qtd. Regs.: 0
+0
+T-BUCKET: 1953
+Qtd. Regs.: 0
+0
+T-BUCKET: 1954
+Qtd. Regs.: 0
+0
+T-BUCKET: 1955
+Qtd. Regs.: 0
+0
+T-BUCKET: 1956
+Qtd. Regs.: 0
+0
+T-BUCKET: 1957
+Qtd. Regs.: 0
+0
+T-BUCKET: 1958
+Qtd. Regs.: 0
+0
+T-BUCKET: 1959
+Qtd. Regs.: 0
+0
+T-BUCKET: 1960
+Qtd. Regs.: 0
+0
+T-BUCKET: 1961
+Qtd. Regs.: 0
+0
+T-BUCKET: 1962
+Qtd. Regs.: 0
+0
+T-BUCKET: 1963
+Qtd. Regs.: 0
+0
+T-BUCKET: 1964
+Qtd. Regs.: 0
+0
+T-BUCKET: 1965
+Qtd. Regs.: 0
+0
+T-BUCKET: 1966
+Qtd. Regs.: 0
+0
+T-BUCKET: 1967
+Qtd. Regs.: 0
+0
+T-BUCKET: 1968
+Qtd. Regs.: 0
+0
+T-BUCKET: 1969
+Qtd. Regs.: 0
+0
+T-BUCKET: 1970
+Qtd. Regs.: 0
+0
+T-BUCKET: 1971
+Qtd. Regs.: 0
+0
+T-BUCKET: 1972
+Qtd. Regs.: 0
+0
+T-BUCKET: 1973
+Qtd. Regs.: 0
+0
+T-BUCKET: 1974
+Qtd. Regs.: 0
+0
+T-BUCKET: 1975
+Qtd. Regs.: 0
+0
+T-BUCKET: 1976
+Qtd. Regs.: 0
+0
+T-BUCKET: 1977
+Qtd. Regs.: 0
+0
+T-BUCKET: 1978
+Qtd. Regs.: 0
+0
+T-BUCKET: 1979
+Qtd. Regs.: 0
+0
+T-BUCKET: 1980
+Qtd. Regs.: 0
+0
+T-BUCKET: 1981
+Qtd. Regs.: 0
+0
+T-BUCKET: 1982
+Qtd. Regs.: 0
+0
+T-BUCKET: 1983
+Qtd. Regs.: 0
+0
+T-BUCKET: 1984
+Qtd. Regs.: 0
+0
+T-BUCKET: 1985
+Qtd. Regs.: 0
+0
+T-BUCKET: 1986
+Qtd. Regs.: 0
+0
+T-BUCKET: 1987
+Qtd. Regs.: 0
+0
+T-BUCKET: 1988
+Qtd. Regs.: 0
+0
+T-BUCKET: 1989
+Qtd. Regs.: 0
+0
+T-BUCKET: 1990
+Qtd. Regs.: 0
+0
+T-BUCKET: 1991
+Qtd. Regs.: 0
+0
+T-BUCKET: 1992
+Qtd. Regs.: 0
+0
+T-BUCKET: 1993
+Qtd. Regs.: 0
+0
+T-BUCKET: 1994
+Qtd. Regs.: 0
+0
+T-BUCKET: 1995
+Qtd. Regs.: 0
+0
+T-BUCKET: 1996
+Qtd. Regs.: 0
+0
+T-BUCKET: 1997
+Qtd. Regs.: 0
+0
+T-BUCKET: 1998
+Qtd. Regs.: 0
+0
+T-BUCKET: 1999
+Qtd. Regs.: 0
+0
