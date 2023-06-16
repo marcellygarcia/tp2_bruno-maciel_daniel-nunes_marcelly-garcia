@@ -2,8 +2,8 @@
 #include <fstream>
 #include "arvoreb.h"
 #include "util.h"
-#define M_BUCKETS  2000 //quantidade de buckets
-#define B_BLOCOS 1//quantidade de blocos
+#define M_BUCKETS  15 //quantidade de buckets
+#define B_BLOCOS 1000//quantidade de blocos
 #define DATAFILENAME "HashFile.bin"
 
 using namespace std;
@@ -72,7 +72,7 @@ Bucket Buckets[M_BUCKETS];
  void inc(Registro reg){
     unsigned long nbucket = fhash(reg.id);
     
-    cout<<"N. bucket: "<<nbucket<<endl;   
+    cout<<"N. bucket: "<<nbucket<<" ID:"<<reg.id<<endl;   
     
     try{ 
      unsigned long i;

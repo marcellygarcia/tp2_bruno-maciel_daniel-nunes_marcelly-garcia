@@ -30,13 +30,13 @@ Registro extrai_registro(string linha_csv){
     vector<string> vline = split(linha_csv,';');
     Registro nregistro;// = novo_registro();
   //  imprime_registro((nregistro));
-   nregistro.id = int_to_str(vline[0]);
-   nregistro.titulo=  vline[1];
-   nregistro.ano= int_to_str(vline[2]);
-   nregistro.autores = vline[3];
-   nregistro.citacoes = int_to_str(vline[4]);
-   nregistro.atualizacao = vline[5];
-   nregistro.snippet = vline[6];
+   if(vline.size() >0) nregistro.id = int_to_str(vline[0]);
+   if(vline.size() >1) nregistro.titulo=  vline[1];
+   if(vline.size() >2) nregistro.ano= int_to_str(vline[2]);
+   if(vline.size() >3) nregistro.autores = vline[3];
+   if(vline.size() >4) nregistro.citacoes = int_to_str(vline[4]);
+   if(vline.size() >5) nregistro.atualizacao = vline[5];
+   if(vline.size() >6) nregistro.snippet = vline[6];
     //imprime_registro((nregistro));
     return nregistro;
 }
