@@ -17,10 +17,6 @@ vector<string> split(string str, char spliter){
     }
    splited_str.push_back(s.substr(1,s.size()-2));
      
-   for(int i = 0; i < splited_str.size(); i++){
-        cout<<splited_str[i]<<endl;
-    };
-    
     return splited_str;
 
 }
